@@ -1,0 +1,1000 @@
+{"id": "syn-0000", "text": "Subscription auto-renewed without notice. Order ref SYN-1000. Please advise.", "gold_category": "billing"}
+{"id": "syn-0001", "text": "API returns 500 for endpoint /v1/items/1001.", "gold_category": "technical"}
+{"id": "syn-0002", "text": "Package SYN-1002 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0003", "text": "Two-factor codes not arriving for account A1003.", "gold_category": "account"}
+{"id": "syn-0004", "text": "Documentation for module M1004 is incomplete. Urgent.", "gold_category": "product"}
+{"id": "syn-0005", "text": "General inquiry about partnership option 1005. Thanks.", "gold_category": "other"}
+{"id": "syn-0006", "text": "I was charged twice for invoice 1006. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0007", "text": "App crashes when opening settings on device id 1007.", "gold_category": "technical"}
+{"id": "syn-0008", "text": "Need to change shipping address for order SYN-1008.", "gold_category": "shipping"}
+{"id": "syn-0009", "text": "Two-factor codes not arriving for account A1009.", "gold_category": "account"}
+{"id": "syn-0010", "text": "Feature request: dark mode for dashboard on plan 1010.", "gold_category": "product"}
+{"id": "syn-0011", "text": "General inquiry about partnership option 1011.", "gold_category": "other"}
+{"id": "syn-0012", "text": "I was charged twice for invoice 1012. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0013", "text": "API returns 500 for endpoint /v1/items/1013.", "gold_category": "technical"}
+{"id": "syn-0014", "text": "Package SYN-1014 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0015", "text": "Please delete my account and all data for user1015@example.test. Urgent.", "gold_category": "account"}
+{"id": "syn-0016", "text": "Product P1016 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0017", "text": "Where is your privacy policy for region 1017?", "gold_category": "other"}
+{"id": "syn-0018", "text": "I was charged twice for invoice 1018. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0019", "text": "Cannot reset password; link expires immediately for user1019. Urgent.", "gold_category": "technical"}
+{"id": "syn-0020", "text": "Package SYN-1020 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0021", "text": "Two-factor codes not arriving for account A1021.", "gold_category": "account"}
+{"id": "syn-0022", "text": "Feature request: dark mode for dashboard on plan 1022.", "gold_category": "product"}
+{"id": "syn-0023", "text": "Feedback only: site is slow on page 1023. Please advise.", "gold_category": "other"}
+{"id": "syn-0024", "text": "I was charged twice for invoice 1024. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0025", "text": "App crashes when opening settings on device id 1025.", "gold_category": "technical"}
+{"id": "syn-0026", "text": "Package SYN-1026 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0027", "text": "Please delete my account and all data for user1027@example.test.", "gold_category": "account"}
+{"id": "syn-0028", "text": "Feature request: dark mode for dashboard on plan 1028.", "gold_category": "product"}
+{"id": "syn-0029", "text": "Where is your privacy policy for region 1029?", "gold_category": "other"}
+{"id": "syn-0030", "text": "My card ending 1030 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0031", "text": "Cannot reset password; link expires immediately for user1031.", "gold_category": "technical"}
+{"id": "syn-0032", "text": "Need to change shipping address for order SYN-1032.", "gold_category": "shipping"}
+{"id": "syn-0033", "text": "Two-factor codes not arriving for account A1033.", "gold_category": "account"}
+{"id": "syn-0034", "text": "Product P1034 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0035", "text": "Where is your privacy policy for region 1035?", "gold_category": "other"}
+{"id": "syn-0036", "text": "Subscription auto-renewed without notice. Order ref SYN-1036.", "gold_category": "billing"}
+{"id": "syn-0037", "text": "App crashes when opening settings on device id 1037.", "gold_category": "technical"}
+{"id": "syn-0038", "text": "Package SYN-1038 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0039", "text": "Cannot log in after password change for account A1039.", "gold_category": "account"}
+{"id": "syn-0040", "text": "Feature request: dark mode for dashboard on plan 1040.", "gold_category": "product"}
+{"id": "syn-0041", "text": "General inquiry about partnership option 1041.", "gold_category": "other"}
+{"id": "syn-0042", "text": "Subscription auto-renewed without notice. Order ref SYN-1042.", "gold_category": "billing"}
+{"id": "syn-0043", "text": "API returns 500 for endpoint /v1/items/1043.", "gold_category": "technical"}
+{"id": "syn-0044", "text": "Wrong item delivered for order SYN-1044.", "gold_category": "shipping"}
+{"id": "syn-0045", "text": "Two-factor codes not arriving for account A1045.", "gold_category": "account"}
+{"id": "syn-0046", "text": "Feature request: dark mode for dashboard on plan 1046. Please advise.", "gold_category": "product"}
+{"id": "syn-0047", "text": "Feedback only: site is slow on page 1047.", "gold_category": "other"}
+{"id": "syn-0048", "text": "Subscription auto-renewed without notice. Order ref SYN-1048.", "gold_category": "billing"}
+{"id": "syn-0049", "text": "Cannot reset password; link expires immediately for user1049.", "gold_category": "technical"}
+{"id": "syn-0050", "text": "Package SYN-1050 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0051", "text": "Cannot log in after password change for account A1051.", "gold_category": "account"}
+{"id": "syn-0052", "text": "Product P1052 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0053", "text": "General inquiry about partnership option 1053.", "gold_category": "other"}
+{"id": "syn-0054", "text": "I was charged twice for invoice 1054. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0055", "text": "API returns 500 for endpoint /v1/items/1055.", "gold_category": "technical"}
+{"id": "syn-0056", "text": "Wrong item delivered for order SYN-1056.", "gold_category": "shipping"}
+{"id": "syn-0057", "text": "Please delete my account and all data for user1057@example.test.", "gold_category": "account"}
+{"id": "syn-0058", "text": "Documentation for module M1058 is incomplete.", "gold_category": "product"}
+{"id": "syn-0059", "text": "General inquiry about partnership option 1059.", "gold_category": "other"}
+{"id": "syn-0060", "text": "I was charged twice for invoice 1060. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0061", "text": "Cannot reset password; link expires immediately for user1061.", "gold_category": "technical"}
+{"id": "syn-0062", "text": "Need to change shipping address for order SYN-1062.", "gold_category": "shipping"}
+{"id": "syn-0063", "text": "Please delete my account and all data for user1063@example.test.", "gold_category": "account"}
+{"id": "syn-0064", "text": "Feature request: dark mode for dashboard on plan 1064. Please advise.", "gold_category": "product"}
+{"id": "syn-0065", "text": "Feedback only: site is slow on page 1065.", "gold_category": "other"}
+{"id": "syn-0066", "text": "Subscription auto-renewed without notice. Order ref SYN-1066.", "gold_category": "billing"}
+{"id": "syn-0067", "text": "Cannot reset password; link expires immediately for user1067.", "gold_category": "technical"}
+{"id": "syn-0068", "text": "Need to change shipping address for order SYN-1068.", "gold_category": "shipping"}
+{"id": "syn-0069", "text": "Two-factor codes not arriving for account A1069.", "gold_category": "account"}
+{"id": "syn-0070", "text": "Product P1070 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0071", "text": "General inquiry about partnership option 1071.", "gold_category": "other"}
+{"id": "syn-0072", "text": "Subscription auto-renewed without notice. Order ref SYN-1072.", "gold_category": "billing"}
+{"id": "syn-0073", "text": "Cannot reset password; link expires immediately for user1073.", "gold_category": "technical"}
+{"id": "syn-0074", "text": "Package SYN-1074 is 5 days late. Tracking shows no movement. Urgent.", "gold_category": "shipping"}
+{"id": "syn-0075", "text": "Please delete my account and all data for user1075@example.test.", "gold_category": "account"}
+{"id": "syn-0076", "text": "Product P1076 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0077", "text": "General inquiry about partnership option 1077. Urgent.", "gold_category": "other"}
+{"id": "syn-0078", "text": "I was charged twice for invoice 1078. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0079", "text": "Cannot reset password; link expires immediately for user1079.", "gold_category": "technical"}
+{"id": "syn-0080", "text": "Package SYN-1080 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0081", "text": "Two-factor codes not arriving for account A1081.", "gold_category": "account"}
+{"id": "syn-0082", "text": "Documentation for module M1082 is incomplete.", "gold_category": "product"}
+{"id": "syn-0083", "text": "Where is your privacy policy for region 1083?", "gold_category": "other"}
+{"id": "syn-0084", "text": "Subscription auto-renewed without notice. Order ref SYN-1084.", "gold_category": "billing"}
+{"id": "syn-0085", "text": "Cannot reset password; link expires immediately for user1085.", "gold_category": "technical"}
+{"id": "syn-0086", "text": "Wrong item delivered for order SYN-1086.", "gold_category": "shipping"}
+{"id": "syn-0087", "text": "Two-factor codes not arriving for account A1087.", "gold_category": "account"}
+{"id": "syn-0088", "text": "Feature request: dark mode for dashboard on plan 1088.", "gold_category": "product"}
+{"id": "syn-0089", "text": "Where is your privacy policy for region 1089? Thanks.", "gold_category": "other"}
+{"id": "syn-0090", "text": "I was charged twice for invoice 1090. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0091", "text": "Cannot reset password; link expires immediately for user1091.", "gold_category": "technical"}
+{"id": "syn-0092", "text": "Need to change shipping address for order SYN-1092.", "gold_category": "shipping"}
+{"id": "syn-0093", "text": "Cannot log in after password change for account A1093.", "gold_category": "account"}
+{"id": "syn-0094", "text": "Product P1094 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0095", "text": "General inquiry about partnership option 1095.", "gold_category": "other"}
+{"id": "syn-0096", "text": "I was charged twice for invoice 1096. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0097", "text": "API returns 500 for endpoint /v1/items/1097.", "gold_category": "technical"}
+{"id": "syn-0098", "text": "Package SYN-1098 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0099", "text": "Two-factor codes not arriving for account A1099.", "gold_category": "account"}
+{"id": "syn-0100", "text": "Documentation for module M1100 is incomplete.", "gold_category": "product"}
+{"id": "syn-0101", "text": "General inquiry about partnership option 1101.", "gold_category": "other"}
+{"id": "syn-0102", "text": "My card ending 1102 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0103", "text": "App crashes when opening settings on device id 1103.", "gold_category": "technical"}
+{"id": "syn-0104", "text": "Wrong item delivered for order SYN-1104.", "gold_category": "shipping"}
+{"id": "syn-0105", "text": "Please delete my account and all data for user1105@example.test.", "gold_category": "account"}
+{"id": "syn-0106", "text": "Product P1106 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0107", "text": "Feedback only: site is slow on page 1107. Urgent.", "gold_category": "other"}
+{"id": "syn-0108", "text": "Subscription auto-renewed without notice. Order ref SYN-1108.", "gold_category": "billing"}
+{"id": "syn-0109", "text": "App crashes when opening settings on device id 1109.", "gold_category": "technical"}
+{"id": "syn-0110", "text": "Package SYN-1110 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0111", "text": "Cannot log in after password change for account A1111.", "gold_category": "account"}
+{"id": "syn-0112", "text": "Feature request: dark mode for dashboard on plan 1112.", "gold_category": "product"}
+{"id": "syn-0113", "text": "General inquiry about partnership option 1113.", "gold_category": "other"}
+{"id": "syn-0114", "text": "Subscription auto-renewed without notice. Order ref SYN-1114. Please advise.", "gold_category": "billing"}
+{"id": "syn-0115", "text": "Cannot reset password; link expires immediately for user1115.", "gold_category": "technical"}
+{"id": "syn-0116", "text": "Package SYN-1116 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0117", "text": "Cannot log in after password change for account A1117.", "gold_category": "account"}
+{"id": "syn-0118", "text": "Feature request: dark mode for dashboard on plan 1118.", "gold_category": "product"}
+{"id": "syn-0119", "text": "Where is your privacy policy for region 1119?", "gold_category": "other"}
+{"id": "syn-0120", "text": "I was charged twice for invoice 1120. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0121", "text": "API returns 500 for endpoint /v1/items/1121.", "gold_category": "technical"}
+{"id": "syn-0122", "text": "Wrong item delivered for order SYN-1122.", "gold_category": "shipping"}
+{"id": "syn-0123", "text": "Two-factor codes not arriving for account A1123.", "gold_category": "account"}
+{"id": "syn-0124", "text": "Documentation for module M1124 is incomplete.", "gold_category": "product"}
+{"id": "syn-0125", "text": "Where is your privacy policy for region 1125?", "gold_category": "other"}
+{"id": "syn-0126", "text": "My card ending 1126 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0127", "text": "App crashes when opening settings on device id 1127.", "gold_category": "technical"}
+{"id": "syn-0128", "text": "Need to change shipping address for order SYN-1128. Urgent.", "gold_category": "shipping"}
+{"id": "syn-0129", "text": "Cannot log in after password change for account A1129. Urgent.", "gold_category": "account"}
+{"id": "syn-0130", "text": "Documentation for module M1130 is incomplete.", "gold_category": "product"}
+{"id": "syn-0131", "text": "Feedback only: site is slow on page 1131.", "gold_category": "other"}
+{"id": "syn-0132", "text": "Subscription auto-renewed without notice. Order ref SYN-1132. Thanks.", "gold_category": "billing"}
+{"id": "syn-0133", "text": "App crashes when opening settings on device id 1133.", "gold_category": "technical"}
+{"id": "syn-0134", "text": "Need to change shipping address for order SYN-1134.", "gold_category": "shipping"}
+{"id": "syn-0135", "text": "Please delete my account and all data for user1135@example.test. Please advise.", "gold_category": "account"}
+{"id": "syn-0136", "text": "Product P1136 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0137", "text": "General inquiry about partnership option 1137.", "gold_category": "other"}
+{"id": "syn-0138", "text": "My card ending 1138 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0139", "text": "Cannot reset password; link expires immediately for user1139.", "gold_category": "technical"}
+{"id": "syn-0140", "text": "Wrong item delivered for order SYN-1140.", "gold_category": "shipping"}
+{"id": "syn-0141", "text": "Two-factor codes not arriving for account A1141.", "gold_category": "account"}
+{"id": "syn-0142", "text": "Feature request: dark mode for dashboard on plan 1142.", "gold_category": "product"}
+{"id": "syn-0143", "text": "Feedback only: site is slow on page 1143.", "gold_category": "other"}
+{"id": "syn-0144", "text": "My card ending 1144 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0145", "text": "App crashes when opening settings on device id 1145. Please advise.", "gold_category": "technical"}
+{"id": "syn-0146", "text": "Need to change shipping address for order SYN-1146.", "gold_category": "shipping"}
+{"id": "syn-0147", "text": "Cannot log in after password change for account A1147.", "gold_category": "account"}
+{"id": "syn-0148", "text": "Documentation for module M1148 is incomplete.", "gold_category": "product"}
+{"id": "syn-0149", "text": "Where is your privacy policy for region 1149?", "gold_category": "other"}
+{"id": "syn-0150", "text": "I was charged twice for invoice 1150. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0151", "text": "App crashes when opening settings on device id 1151.", "gold_category": "technical"}
+{"id": "syn-0152", "text": "Need to change shipping address for order SYN-1152.", "gold_category": "shipping"}
+{"id": "syn-0153", "text": "Two-factor codes not arriving for account A1153.", "gold_category": "account"}
+{"id": "syn-0154", "text": "Documentation for module M1154 is incomplete.", "gold_category": "product"}
+{"id": "syn-0155", "text": "Feedback only: site is slow on page 1155.", "gold_category": "other"}
+{"id": "syn-0156", "text": "My card ending 1156 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0157", "text": "App crashes when opening settings on device id 1157.", "gold_category": "technical"}
+{"id": "syn-0158", "text": "Package SYN-1158 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0159", "text": "Cannot log in after password change for account A1159.", "gold_category": "account"}
+{"id": "syn-0160", "text": "Product P1160 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0161", "text": "Feedback only: site is slow on page 1161.", "gold_category": "other"}
+{"id": "syn-0162", "text": "My card ending 1162 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0163", "text": "Cannot reset password; link expires immediately for user1163.", "gold_category": "technical"}
+{"id": "syn-0164", "text": "Need to change shipping address for order SYN-1164.", "gold_category": "shipping"}
+{"id": "syn-0165", "text": "Cannot log in after password change for account A1165. Urgent.", "gold_category": "account"}
+{"id": "syn-0166", "text": "Feature request: dark mode for dashboard on plan 1166. Urgent.", "gold_category": "product"}
+{"id": "syn-0167", "text": "General inquiry about partnership option 1167.", "gold_category": "other"}
+{"id": "syn-0168", "text": "My card ending 1168 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0169", "text": "API returns 500 for endpoint /v1/items/1169.", "gold_category": "technical"}
+{"id": "syn-0170", "text": "Wrong item delivered for order SYN-1170.", "gold_category": "shipping"}
+{"id": "syn-0171", "text": "Cannot log in after password change for account A1171. Please advise.", "gold_category": "account"}
+{"id": "syn-0172", "text": "Product P1172 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0173", "text": "Where is your privacy policy for region 1173?", "gold_category": "other"}
+{"id": "syn-0174", "text": "I was charged twice for invoice 1174. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0175", "text": "App crashes when opening settings on device id 1175.", "gold_category": "technical"}
+{"id": "syn-0176", "text": "Package SYN-1176 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0177", "text": "Cannot log in after password change for account A1177.", "gold_category": "account"}
+{"id": "syn-0178", "text": "Documentation for module M1178 is incomplete. Please advise.", "gold_category": "product"}
+{"id": "syn-0179", "text": "Where is your privacy policy for region 1179?", "gold_category": "other"}
+{"id": "syn-0180", "text": "Subscription auto-renewed without notice. Order ref SYN-1180.", "gold_category": "billing"}
+{"id": "syn-0181", "text": "App crashes when opening settings on device id 1181.", "gold_category": "technical"}
+{"id": "syn-0182", "text": "Package SYN-1182 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0183", "text": "Cannot log in after password change for account A1183.", "gold_category": "account"}
+{"id": "syn-0184", "text": "Feature request: dark mode for dashboard on plan 1184.", "gold_category": "product"}
+{"id": "syn-0185", "text": "Where is your privacy policy for region 1185?", "gold_category": "other"}
+{"id": "syn-0186", "text": "Subscription auto-renewed without notice. Order ref SYN-1186.", "gold_category": "billing"}
+{"id": "syn-0187", "text": "API returns 500 for endpoint /v1/items/1187.", "gold_category": "technical"}
+{"id": "syn-0188", "text": "Need to change shipping address for order SYN-1188. Thanks.", "gold_category": "shipping"}
+{"id": "syn-0189", "text": "Please delete my account and all data for user1189@example.test.", "gold_category": "account"}
+{"id": "syn-0190", "text": "Feature request: dark mode for dashboard on plan 1190.", "gold_category": "product"}
+{"id": "syn-0191", "text": "General inquiry about partnership option 1191.", "gold_category": "other"}
+{"id": "syn-0192", "text": "Subscription auto-renewed without notice. Order ref SYN-1192.", "gold_category": "billing"}
+{"id": "syn-0193", "text": "API returns 500 for endpoint /v1/items/1193.", "gold_category": "technical"}
+{"id": "syn-0194", "text": "Package SYN-1194 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0195", "text": "Please delete my account and all data for user1195@example.test.", "gold_category": "account"}
+{"id": "syn-0196", "text": "Documentation for module M1196 is incomplete.", "gold_category": "product"}
+{"id": "syn-0197", "text": "Feedback only: site is slow on page 1197.", "gold_category": "other"}
+{"id": "syn-0198", "text": "I was charged twice for invoice 1198. Please refund the extra charge. Urgent.", "gold_category": "billing"}
+{"id": "syn-0199", "text": "App crashes when opening settings on device id 1199.", "gold_category": "technical"}
+{"id": "syn-0200", "text": "Wrong item delivered for order SYN-1200. Please advise.", "gold_category": "shipping"}
+{"id": "syn-0201", "text": "Please delete my account and all data for user1201@example.test.", "gold_category": "account"}
+{"id": "syn-0202", "text": "Feature request: dark mode for dashboard on plan 1202.", "gold_category": "product"}
+{"id": "syn-0203", "text": "Feedback only: site is slow on page 1203. Please advise.", "gold_category": "other"}
+{"id": "syn-0204", "text": "I was charged twice for invoice 1204. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0205", "text": "Cannot reset password; link expires immediately for user1205.", "gold_category": "technical"}
+{"id": "syn-0206", "text": "Need to change shipping address for order SYN-1206.", "gold_category": "shipping"}
+{"id": "syn-0207", "text": "Two-factor codes not arriving for account A1207.", "gold_category": "account"}
+{"id": "syn-0208", "text": "Documentation for module M1208 is incomplete.", "gold_category": "product"}
+{"id": "syn-0209", "text": "General inquiry about partnership option 1209.", "gold_category": "other"}
+{"id": "syn-0210", "text": "I was charged twice for invoice 1210. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0211", "text": "API returns 500 for endpoint /v1/items/1211.", "gold_category": "technical"}
+{"id": "syn-0212", "text": "Need to change shipping address for order SYN-1212.", "gold_category": "shipping"}
+{"id": "syn-0213", "text": "Two-factor codes not arriving for account A1213.", "gold_category": "account"}
+{"id": "syn-0214", "text": "Documentation for module M1214 is incomplete.", "gold_category": "product"}
+{"id": "syn-0215", "text": "Where is your privacy policy for region 1215?", "gold_category": "other"}
+{"id": "syn-0216", "text": "Subscription auto-renewed without notice. Order ref SYN-1216.", "gold_category": "billing"}
+{"id": "syn-0217", "text": "App crashes when opening settings on device id 1217.", "gold_category": "technical"}
+{"id": "syn-0218", "text": "Need to change shipping address for order SYN-1218.", "gold_category": "shipping"}
+{"id": "syn-0219", "text": "Two-factor codes not arriving for account A1219.", "gold_category": "account"}
+{"id": "syn-0220", "text": "Product P1220 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0221", "text": "Where is your privacy policy for region 1221?", "gold_category": "other"}
+{"id": "syn-0222", "text": "I was charged twice for invoice 1222. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0223", "text": "App crashes when opening settings on device id 1223.", "gold_category": "technical"}
+{"id": "syn-0224", "text": "Need to change shipping address for order SYN-1224.", "gold_category": "shipping"}
+{"id": "syn-0225", "text": "Please delete my account and all data for user1225@example.test.", "gold_category": "account"}
+{"id": "syn-0226", "text": "Feature request: dark mode for dashboard on plan 1226.", "gold_category": "product"}
+{"id": "syn-0227", "text": "Feedback only: site is slow on page 1227.", "gold_category": "other"}
+{"id": "syn-0228", "text": "Subscription auto-renewed without notice. Order ref SYN-1228.", "gold_category": "billing"}
+{"id": "syn-0229", "text": "App crashes when opening settings on device id 1229.", "gold_category": "technical"}
+{"id": "syn-0230", "text": "Need to change shipping address for order SYN-1230.", "gold_category": "shipping"}
+{"id": "syn-0231", "text": "Please delete my account and all data for user1231@example.test. Thanks.", "gold_category": "account"}
+{"id": "syn-0232", "text": "Documentation for module M1232 is incomplete.", "gold_category": "product"}
+{"id": "syn-0233", "text": "General inquiry about partnership option 1233. Thanks.", "gold_category": "other"}
+{"id": "syn-0234", "text": "I was charged twice for invoice 1234. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0235", "text": "Cannot reset password; link expires immediately for user1235.", "gold_category": "technical"}
+{"id": "syn-0236", "text": "Package SYN-1236 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0237", "text": "Two-factor codes not arriving for account A1237.", "gold_category": "account"}
+{"id": "syn-0238", "text": "Documentation for module M1238 is incomplete.", "gold_category": "product"}
+{"id": "syn-0239", "text": "Where is your privacy policy for region 1239?", "gold_category": "other"}
+{"id": "syn-0240", "text": "I was charged twice for invoice 1240. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0241", "text": "App crashes when opening settings on device id 1241.", "gold_category": "technical"}
+{"id": "syn-0242", "text": "Package SYN-1242 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0243", "text": "Cannot log in after password change for account A1243.", "gold_category": "account"}
+{"id": "syn-0244", "text": "Documentation for module M1244 is incomplete.", "gold_category": "product"}
+{"id": "syn-0245", "text": "General inquiry about partnership option 1245.", "gold_category": "other"}
+{"id": "syn-0246", "text": "I was charged twice for invoice 1246. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0247", "text": "API returns 500 for endpoint /v1/items/1247.", "gold_category": "technical"}
+{"id": "syn-0248", "text": "Need to change shipping address for order SYN-1248.", "gold_category": "shipping"}
+{"id": "syn-0249", "text": "Please delete my account and all data for user1249@example.test.", "gold_category": "account"}
+{"id": "syn-0250", "text": "Documentation for module M1250 is incomplete.", "gold_category": "product"}
+{"id": "syn-0251", "text": "Where is your privacy policy for region 1251?", "gold_category": "other"}
+{"id": "syn-0252", "text": "Subscription auto-renewed without notice. Order ref SYN-1252.", "gold_category": "billing"}
+{"id": "syn-0253", "text": "App crashes when opening settings on device id 1253.", "gold_category": "technical"}
+{"id": "syn-0254", "text": "Wrong item delivered for order SYN-1254.", "gold_category": "shipping"}
+{"id": "syn-0255", "text": "Cannot log in after password change for account A1255.", "gold_category": "account"}
+{"id": "syn-0256", "text": "Feature request: dark mode for dashboard on plan 1256.", "gold_category": "product"}
+{"id": "syn-0257", "text": "Feedback only: site is slow on page 1257.", "gold_category": "other"}
+{"id": "syn-0258", "text": "I was charged twice for invoice 1258. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0259", "text": "App crashes when opening settings on device id 1259.", "gold_category": "technical"}
+{"id": "syn-0260", "text": "Package SYN-1260 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0261", "text": "Please delete my account and all data for user1261@example.test.", "gold_category": "account"}
+{"id": "syn-0262", "text": "Product P1262 arrived damaged. Requesting replacement. Thanks.", "gold_category": "product"}
+{"id": "syn-0263", "text": "Where is your privacy policy for region 1263?", "gold_category": "other"}
+{"id": "syn-0264", "text": "Subscription auto-renewed without notice. Order ref SYN-1264.", "gold_category": "billing"}
+{"id": "syn-0265", "text": "API returns 500 for endpoint /v1/items/1265.", "gold_category": "technical"}
+{"id": "syn-0266", "text": "Need to change shipping address for order SYN-1266.", "gold_category": "shipping"}
+{"id": "syn-0267", "text": "Cannot log in after password change for account A1267.", "gold_category": "account"}
+{"id": "syn-0268", "text": "Feature request: dark mode for dashboard on plan 1268.", "gold_category": "product"}
+{"id": "syn-0269", "text": "Feedback only: site is slow on page 1269.", "gold_category": "other"}
+{"id": "syn-0270", "text": "I was charged twice for invoice 1270. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0271", "text": "Cannot reset password; link expires immediately for user1271.", "gold_category": "technical"}
+{"id": "syn-0272", "text": "Package SYN-1272 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0273", "text": "Please delete my account and all data for user1273@example.test.", "gold_category": "account"}
+{"id": "syn-0274", "text": "Feature request: dark mode for dashboard on plan 1274.", "gold_category": "product"}
+{"id": "syn-0275", "text": "Feedback only: site is slow on page 1275.", "gold_category": "other"}
+{"id": "syn-0276", "text": "Subscription auto-renewed without notice. Order ref SYN-1276.", "gold_category": "billing"}
+{"id": "syn-0277", "text": "API returns 500 for endpoint /v1/items/1277.", "gold_category": "technical"}
+{"id": "syn-0278", "text": "Wrong item delivered for order SYN-1278.", "gold_category": "shipping"}
+{"id": "syn-0279", "text": "Please delete my account and all data for user1279@example.test.", "gold_category": "account"}
+{"id": "syn-0280", "text": "Documentation for module M1280 is incomplete.", "gold_category": "product"}
+{"id": "syn-0281", "text": "Feedback only: site is slow on page 1281.", "gold_category": "other"}
+{"id": "syn-0282", "text": "My card ending 1282 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0283", "text": "Cannot reset password; link expires immediately for user1283.", "gold_category": "technical"}
+{"id": "syn-0284", "text": "Wrong item delivered for order SYN-1284.", "gold_category": "shipping"}
+{"id": "syn-0285", "text": "Two-factor codes not arriving for account A1285. Please advise.", "gold_category": "account"}
+{"id": "syn-0286", "text": "Feature request: dark mode for dashboard on plan 1286. Urgent.", "gold_category": "product"}
+{"id": "syn-0287", "text": "General inquiry about partnership option 1287. Urgent.", "gold_category": "other"}
+{"id": "syn-0288", "text": "My card ending 1288 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0289", "text": "API returns 500 for endpoint /v1/items/1289.", "gold_category": "technical"}
+{"id": "syn-0290", "text": "Wrong item delivered for order SYN-1290.", "gold_category": "shipping"}
+{"id": "syn-0291", "text": "Please delete my account and all data for user1291@example.test.", "gold_category": "account"}
+{"id": "syn-0292", "text": "Product P1292 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0293", "text": "Feedback only: site is slow on page 1293.", "gold_category": "other"}
+{"id": "syn-0294", "text": "My card ending 1294 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0295", "text": "App crashes when opening settings on device id 1295.", "gold_category": "technical"}
+{"id": "syn-0296", "text": "Need to change shipping address for order SYN-1296. Thanks.", "gold_category": "shipping"}
+{"id": "syn-0297", "text": "Cannot log in after password change for account A1297.", "gold_category": "account"}
+{"id": "syn-0298", "text": "Product P1298 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0299", "text": "General inquiry about partnership option 1299. Please advise.", "gold_category": "other"}
+{"id": "syn-0300", "text": "I was charged twice for invoice 1300. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0301", "text": "App crashes when opening settings on device id 1301.", "gold_category": "technical"}
+{"id": "syn-0302", "text": "Wrong item delivered for order SYN-1302.", "gold_category": "shipping"}
+{"id": "syn-0303", "text": "Cannot log in after password change for account A1303.", "gold_category": "account"}
+{"id": "syn-0304", "text": "Documentation for module M1304 is incomplete.", "gold_category": "product"}
+{"id": "syn-0305", "text": "General inquiry about partnership option 1305.", "gold_category": "other"}
+{"id": "syn-0306", "text": "I was charged twice for invoice 1306. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0307", "text": "API returns 500 for endpoint /v1/items/1307.", "gold_category": "technical"}
+{"id": "syn-0308", "text": "Wrong item delivered for order SYN-1308.", "gold_category": "shipping"}
+{"id": "syn-0309", "text": "Two-factor codes not arriving for account A1309.", "gold_category": "account"}
+{"id": "syn-0310", "text": "Documentation for module M1310 is incomplete.", "gold_category": "product"}
+{"id": "syn-0311", "text": "Feedback only: site is slow on page 1311.", "gold_category": "other"}
+{"id": "syn-0312", "text": "Subscription auto-renewed without notice. Order ref SYN-1312.", "gold_category": "billing"}
+{"id": "syn-0313", "text": "Cannot reset password; link expires immediately for user1313.", "gold_category": "technical"}
+{"id": "syn-0314", "text": "Package SYN-1314 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0315", "text": "Two-factor codes not arriving for account A1315.", "gold_category": "account"}
+{"id": "syn-0316", "text": "Feature request: dark mode for dashboard on plan 1316.", "gold_category": "product"}
+{"id": "syn-0317", "text": "Feedback only: site is slow on page 1317.", "gold_category": "other"}
+{"id": "syn-0318", "text": "Subscription auto-renewed without notice. Order ref SYN-1318.", "gold_category": "billing"}
+{"id": "syn-0319", "text": "App crashes when opening settings on device id 1319.", "gold_category": "technical"}
+{"id": "syn-0320", "text": "Wrong item delivered for order SYN-1320. Urgent.", "gold_category": "shipping"}
+{"id": "syn-0321", "text": "Two-factor codes not arriving for account A1321.", "gold_category": "account"}
+{"id": "syn-0322", "text": "Feature request: dark mode for dashboard on plan 1322.", "gold_category": "product"}
+{"id": "syn-0323", "text": "Where is your privacy policy for region 1323?", "gold_category": "other"}
+{"id": "syn-0324", "text": "Subscription auto-renewed without notice. Order ref SYN-1324.", "gold_category": "billing"}
+{"id": "syn-0325", "text": "API returns 500 for endpoint /v1/items/1325.", "gold_category": "technical"}
+{"id": "syn-0326", "text": "Need to change shipping address for order SYN-1326.", "gold_category": "shipping"}
+{"id": "syn-0327", "text": "Please delete my account and all data for user1327@example.test.", "gold_category": "account"}
+{"id": "syn-0328", "text": "Documentation for module M1328 is incomplete.", "gold_category": "product"}
+{"id": "syn-0329", "text": "Where is your privacy policy for region 1329?", "gold_category": "other"}
+{"id": "syn-0330", "text": "I was charged twice for invoice 1330. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0331", "text": "API returns 500 for endpoint /v1/items/1331.", "gold_category": "technical"}
+{"id": "syn-0332", "text": "Wrong item delivered for order SYN-1332.", "gold_category": "shipping"}
+{"id": "syn-0333", "text": "Two-factor codes not arriving for account A1333.", "gold_category": "account"}
+{"id": "syn-0334", "text": "Product P1334 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0335", "text": "Where is your privacy policy for region 1335?", "gold_category": "other"}
+{"id": "syn-0336", "text": "I was charged twice for invoice 1336. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0337", "text": "API returns 500 for endpoint /v1/items/1337.", "gold_category": "technical"}
+{"id": "syn-0338", "text": "Need to change shipping address for order SYN-1338.", "gold_category": "shipping"}
+{"id": "syn-0339", "text": "Please delete my account and all data for user1339@example.test.", "gold_category": "account"}
+{"id": "syn-0340", "text": "Documentation for module M1340 is incomplete.", "gold_category": "product"}
+{"id": "syn-0341", "text": "General inquiry about partnership option 1341.", "gold_category": "other"}
+{"id": "syn-0342", "text": "My card ending 1342 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0343", "text": "App crashes when opening settings on device id 1343.", "gold_category": "technical"}
+{"id": "syn-0344", "text": "Need to change shipping address for order SYN-1344.", "gold_category": "shipping"}
+{"id": "syn-0345", "text": "Please delete my account and all data for user1345@example.test.", "gold_category": "account"}
+{"id": "syn-0346", "text": "Product P1346 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0347", "text": "Where is your privacy policy for region 1347?", "gold_category": "other"}
+{"id": "syn-0348", "text": "My card ending 1348 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0349", "text": "API returns 500 for endpoint /v1/items/1349.", "gold_category": "technical"}
+{"id": "syn-0350", "text": "Need to change shipping address for order SYN-1350.", "gold_category": "shipping"}
+{"id": "syn-0351", "text": "Two-factor codes not arriving for account A1351.", "gold_category": "account"}
+{"id": "syn-0352", "text": "Feature request: dark mode for dashboard on plan 1352.", "gold_category": "product"}
+{"id": "syn-0353", "text": "Where is your privacy policy for region 1353?", "gold_category": "other"}
+{"id": "syn-0354", "text": "I was charged twice for invoice 1354. Please refund the extra charge. Thanks.", "gold_category": "billing"}
+{"id": "syn-0355", "text": "API returns 500 for endpoint /v1/items/1355. Please advise.", "gold_category": "technical"}
+{"id": "syn-0356", "text": "Need to change shipping address for order SYN-1356.", "gold_category": "shipping"}
+{"id": "syn-0357", "text": "Cannot log in after password change for account A1357.", "gold_category": "account"}
+{"id": "syn-0358", "text": "Feature request: dark mode for dashboard on plan 1358.", "gold_category": "product"}
+{"id": "syn-0359", "text": "Feedback only: site is slow on page 1359.", "gold_category": "other"}
+{"id": "syn-0360", "text": "I was charged twice for invoice 1360. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0361", "text": "API returns 500 for endpoint /v1/items/1361.", "gold_category": "technical"}
+{"id": "syn-0362", "text": "Package SYN-1362 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0363", "text": "Two-factor codes not arriving for account A1363.", "gold_category": "account"}
+{"id": "syn-0364", "text": "Feature request: dark mode for dashboard on plan 1364. Thanks.", "gold_category": "product"}
+{"id": "syn-0365", "text": "Feedback only: site is slow on page 1365.", "gold_category": "other"}
+{"id": "syn-0366", "text": "I was charged twice for invoice 1366. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0367", "text": "API returns 500 for endpoint /v1/items/1367. Thanks.", "gold_category": "technical"}
+{"id": "syn-0368", "text": "Need to change shipping address for order SYN-1368.", "gold_category": "shipping"}
+{"id": "syn-0369", "text": "Please delete my account and all data for user1369@example.test.", "gold_category": "account"}
+{"id": "syn-0370", "text": "Product P1370 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0371", "text": "Where is your privacy policy for region 1371?", "gold_category": "other"}
+{"id": "syn-0372", "text": "My card ending 1372 failed; update payment method needed. Thanks.", "gold_category": "billing"}
+{"id": "syn-0373", "text": "API returns 500 for endpoint /v1/items/1373.", "gold_category": "technical"}
+{"id": "syn-0374", "text": "Need to change shipping address for order SYN-1374.", "gold_category": "shipping"}
+{"id": "syn-0375", "text": "Cannot log in after password change for account A1375.", "gold_category": "account"}
+{"id": "syn-0376", "text": "Documentation for module M1376 is incomplete.", "gold_category": "product"}
+{"id": "syn-0377", "text": "General inquiry about partnership option 1377.", "gold_category": "other"}
+{"id": "syn-0378", "text": "I was charged twice for invoice 1378. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0379", "text": "API returns 500 for endpoint /v1/items/1379.", "gold_category": "technical"}
+{"id": "syn-0380", "text": "Need to change shipping address for order SYN-1380.", "gold_category": "shipping"}
+{"id": "syn-0381", "text": "Two-factor codes not arriving for account A1381.", "gold_category": "account"}
+{"id": "syn-0382", "text": "Feature request: dark mode for dashboard on plan 1382.", "gold_category": "product"}
+{"id": "syn-0383", "text": "Feedback only: site is slow on page 1383.", "gold_category": "other"}
+{"id": "syn-0384", "text": "My card ending 1384 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0385", "text": "App crashes when opening settings on device id 1385.", "gold_category": "technical"}
+{"id": "syn-0386", "text": "Need to change shipping address for order SYN-1386. Thanks.", "gold_category": "shipping"}
+{"id": "syn-0387", "text": "Two-factor codes not arriving for account A1387.", "gold_category": "account"}
+{"id": "syn-0388", "text": "Documentation for module M1388 is incomplete. Thanks.", "gold_category": "product"}
+{"id": "syn-0389", "text": "General inquiry about partnership option 1389.", "gold_category": "other"}
+{"id": "syn-0390", "text": "I was charged twice for invoice 1390. Please refund the extra charge. Urgent.", "gold_category": "billing"}
+{"id": "syn-0391", "text": "Cannot reset password; link expires immediately for user1391.", "gold_category": "technical"}
+{"id": "syn-0392", "text": "Wrong item delivered for order SYN-1392. Urgent.", "gold_category": "shipping"}
+{"id": "syn-0393", "text": "Two-factor codes not arriving for account A1393.", "gold_category": "account"}
+{"id": "syn-0394", "text": "Feature request: dark mode for dashboard on plan 1394. Thanks.", "gold_category": "product"}
+{"id": "syn-0395", "text": "Where is your privacy policy for region 1395?", "gold_category": "other"}
+{"id": "syn-0396", "text": "Subscription auto-renewed without notice. Order ref SYN-1396.", "gold_category": "billing"}
+{"id": "syn-0397", "text": "App crashes when opening settings on device id 1397.", "gold_category": "technical"}
+{"id": "syn-0398", "text": "Need to change shipping address for order SYN-1398.", "gold_category": "shipping"}
+{"id": "syn-0399", "text": "Cannot log in after password change for account A1399.", "gold_category": "account"}
+{"id": "syn-0400", "text": "Product P1400 arrived damaged. Requesting replacement. Thanks.", "gold_category": "product"}
+{"id": "syn-0401", "text": "Where is your privacy policy for region 1401?", "gold_category": "other"}
+{"id": "syn-0402", "text": "Subscription auto-renewed without notice. Order ref SYN-1402.", "gold_category": "billing"}
+{"id": "syn-0403", "text": "API returns 500 for endpoint /v1/items/1403. Please advise.", "gold_category": "technical"}
+{"id": "syn-0404", "text": "Wrong item delivered for order SYN-1404.", "gold_category": "shipping"}
+{"id": "syn-0405", "text": "Please delete my account and all data for user1405@example.test.", "gold_category": "account"}
+{"id": "syn-0406", "text": "Feature request: dark mode for dashboard on plan 1406.", "gold_category": "product"}
+{"id": "syn-0407", "text": "Feedback only: site is slow on page 1407. Urgent.", "gold_category": "other"}
+{"id": "syn-0408", "text": "Subscription auto-renewed without notice. Order ref SYN-1408.", "gold_category": "billing"}
+{"id": "syn-0409", "text": "API returns 500 for endpoint /v1/items/1409. Thanks.", "gold_category": "technical"}
+{"id": "syn-0410", "text": "Need to change shipping address for order SYN-1410.", "gold_category": "shipping"}
+{"id": "syn-0411", "text": "Two-factor codes not arriving for account A1411.", "gold_category": "account"}
+{"id": "syn-0412", "text": "Product P1412 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0413", "text": "Feedback only: site is slow on page 1413.", "gold_category": "other"}
+{"id": "syn-0414", "text": "Subscription auto-renewed without notice. Order ref SYN-1414. Thanks.", "gold_category": "billing"}
+{"id": "syn-0415", "text": "API returns 500 for endpoint /v1/items/1415.", "gold_category": "technical"}
+{"id": "syn-0416", "text": "Wrong item delivered for order SYN-1416.", "gold_category": "shipping"}
+{"id": "syn-0417", "text": "Cannot log in after password change for account A1417.", "gold_category": "account"}
+{"id": "syn-0418", "text": "Feature request: dark mode for dashboard on plan 1418.", "gold_category": "product"}
+{"id": "syn-0419", "text": "Where is your privacy policy for region 1419?", "gold_category": "other"}
+{"id": "syn-0420", "text": "My card ending 1420 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0421", "text": "API returns 500 for endpoint /v1/items/1421.", "gold_category": "technical"}
+{"id": "syn-0422", "text": "Package SYN-1422 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0423", "text": "Please delete my account and all data for user1423@example.test.", "gold_category": "account"}
+{"id": "syn-0424", "text": "Feature request: dark mode for dashboard on plan 1424.", "gold_category": "product"}
+{"id": "syn-0425", "text": "Where is your privacy policy for region 1425?", "gold_category": "other"}
+{"id": "syn-0426", "text": "Subscription auto-renewed without notice. Order ref SYN-1426. Thanks.", "gold_category": "billing"}
+{"id": "syn-0427", "text": "API returns 500 for endpoint /v1/items/1427.", "gold_category": "technical"}
+{"id": "syn-0428", "text": "Package SYN-1428 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0429", "text": "Please delete my account and all data for user1429@example.test.", "gold_category": "account"}
+{"id": "syn-0430", "text": "Product P1430 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0431", "text": "Feedback only: site is slow on page 1431.", "gold_category": "other"}
+{"id": "syn-0432", "text": "I was charged twice for invoice 1432. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0433", "text": "API returns 500 for endpoint /v1/items/1433.", "gold_category": "technical"}
+{"id": "syn-0434", "text": "Wrong item delivered for order SYN-1434.", "gold_category": "shipping"}
+{"id": "syn-0435", "text": "Cannot log in after password change for account A1435.", "gold_category": "account"}
+{"id": "syn-0436", "text": "Documentation for module M1436 is incomplete. Urgent.", "gold_category": "product"}
+{"id": "syn-0437", "text": "Where is your privacy policy for region 1437?", "gold_category": "other"}
+{"id": "syn-0438", "text": "My card ending 1438 failed; update payment method needed. Please advise.", "gold_category": "billing"}
+{"id": "syn-0439", "text": "Cannot reset password; link expires immediately for user1439.", "gold_category": "technical"}
+{"id": "syn-0440", "text": "Need to change shipping address for order SYN-1440.", "gold_category": "shipping"}
+{"id": "syn-0441", "text": "Two-factor codes not arriving for account A1441. Urgent.", "gold_category": "account"}
+{"id": "syn-0442", "text": "Product P1442 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0443", "text": "General inquiry about partnership option 1443.", "gold_category": "other"}
+{"id": "syn-0444", "text": "I was charged twice for invoice 1444. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0445", "text": "App crashes when opening settings on device id 1445.", "gold_category": "technical"}
+{"id": "syn-0446", "text": "Need to change shipping address for order SYN-1446.", "gold_category": "shipping"}
+{"id": "syn-0447", "text": "Two-factor codes not arriving for account A1447.", "gold_category": "account"}
+{"id": "syn-0448", "text": "Feature request: dark mode for dashboard on plan 1448.", "gold_category": "product"}
+{"id": "syn-0449", "text": "General inquiry about partnership option 1449.", "gold_category": "other"}
+{"id": "syn-0450", "text": "I was charged twice for invoice 1450. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0451", "text": "Cannot reset password; link expires immediately for user1451.", "gold_category": "technical"}
+{"id": "syn-0452", "text": "Package SYN-1452 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0453", "text": "Please delete my account and all data for user1453@example.test.", "gold_category": "account"}
+{"id": "syn-0454", "text": "Feature request: dark mode for dashboard on plan 1454.", "gold_category": "product"}
+{"id": "syn-0455", "text": "Feedback only: site is slow on page 1455.", "gold_category": "other"}
+{"id": "syn-0456", "text": "I was charged twice for invoice 1456. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0457", "text": "API returns 500 for endpoint /v1/items/1457.", "gold_category": "technical"}
+{"id": "syn-0458", "text": "Need to change shipping address for order SYN-1458.", "gold_category": "shipping"}
+{"id": "syn-0459", "text": "Please delete my account and all data for user1459@example.test.", "gold_category": "account"}
+{"id": "syn-0460", "text": "Feature request: dark mode for dashboard on plan 1460.", "gold_category": "product"}
+{"id": "syn-0461", "text": "Where is your privacy policy for region 1461?", "gold_category": "other"}
+{"id": "syn-0462", "text": "Subscription auto-renewed without notice. Order ref SYN-1462.", "gold_category": "billing"}
+{"id": "syn-0463", "text": "API returns 500 for endpoint /v1/items/1463.", "gold_category": "technical"}
+{"id": "syn-0464", "text": "Need to change shipping address for order SYN-1464.", "gold_category": "shipping"}
+{"id": "syn-0465", "text": "Please delete my account and all data for user1465@example.test.", "gold_category": "account"}
+{"id": "syn-0466", "text": "Feature request: dark mode for dashboard on plan 1466. Please advise.", "gold_category": "product"}
+{"id": "syn-0467", "text": "Where is your privacy policy for region 1467?", "gold_category": "other"}
+{"id": "syn-0468", "text": "My card ending 1468 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0469", "text": "Cannot reset password; link expires immediately for user1469.", "gold_category": "technical"}
+{"id": "syn-0470", "text": "Need to change shipping address for order SYN-1470.", "gold_category": "shipping"}
+{"id": "syn-0471", "text": "Please delete my account and all data for user1471@example.test.", "gold_category": "account"}
+{"id": "syn-0472", "text": "Product P1472 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0473", "text": "Feedback only: site is slow on page 1473.", "gold_category": "other"}
+{"id": "syn-0474", "text": "I was charged twice for invoice 1474. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0475", "text": "API returns 500 for endpoint /v1/items/1475. Urgent.", "gold_category": "technical"}
+{"id": "syn-0476", "text": "Package SYN-1476 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0477", "text": "Please delete my account and all data for user1477@example.test.", "gold_category": "account"}
+{"id": "syn-0478", "text": "Product P1478 arrived damaged. Requesting replacement. Urgent.", "gold_category": "product"}
+{"id": "syn-0479", "text": "Where is your privacy policy for region 1479?", "gold_category": "other"}
+{"id": "syn-0480", "text": "My card ending 1480 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0481", "text": "API returns 500 for endpoint /v1/items/1481.", "gold_category": "technical"}
+{"id": "syn-0482", "text": "Need to change shipping address for order SYN-1482.", "gold_category": "shipping"}
+{"id": "syn-0483", "text": "Please delete my account and all data for user1483@example.test.", "gold_category": "account"}
+{"id": "syn-0484", "text": "Feature request: dark mode for dashboard on plan 1484.", "gold_category": "product"}
+{"id": "syn-0485", "text": "General inquiry about partnership option 1485.", "gold_category": "other"}
+{"id": "syn-0486", "text": "I was charged twice for invoice 1486. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0487", "text": "API returns 500 for endpoint /v1/items/1487.", "gold_category": "technical"}
+{"id": "syn-0488", "text": "Need to change shipping address for order SYN-1488. Thanks.", "gold_category": "shipping"}
+{"id": "syn-0489", "text": "Two-factor codes not arriving for account A1489.", "gold_category": "account"}
+{"id": "syn-0490", "text": "Product P1490 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0491", "text": "Feedback only: site is slow on page 1491.", "gold_category": "other"}
+{"id": "syn-0492", "text": "I was charged twice for invoice 1492. Please refund the extra charge. Thanks.", "gold_category": "billing"}
+{"id": "syn-0493", "text": "API returns 500 for endpoint /v1/items/1493.", "gold_category": "technical"}
+{"id": "syn-0494", "text": "Wrong item delivered for order SYN-1494. Please advise.", "gold_category": "shipping"}
+{"id": "syn-0495", "text": "Please delete my account and all data for user1495@example.test.", "gold_category": "account"}
+{"id": "syn-0496", "text": "Product P1496 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0497", "text": "General inquiry about partnership option 1497.", "gold_category": "other"}
+{"id": "syn-0498", "text": "My card ending 1498 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0499", "text": "App crashes when opening settings on device id 1499.", "gold_category": "technical"}
+{"id": "syn-0500", "text": "Need to change shipping address for order SYN-1500. Urgent.", "gold_category": "shipping"}
+{"id": "syn-0501", "text": "Two-factor codes not arriving for account A1501.", "gold_category": "account"}
+{"id": "syn-0502", "text": "Feature request: dark mode for dashboard on plan 1502.", "gold_category": "product"}
+{"id": "syn-0503", "text": "Where is your privacy policy for region 1503?", "gold_category": "other"}
+{"id": "syn-0504", "text": "Subscription auto-renewed without notice. Order ref SYN-1504.", "gold_category": "billing"}
+{"id": "syn-0505", "text": "App crashes when opening settings on device id 1505.", "gold_category": "technical"}
+{"id": "syn-0506", "text": "Wrong item delivered for order SYN-1506.", "gold_category": "shipping"}
+{"id": "syn-0507", "text": "Please delete my account and all data for user1507@example.test.", "gold_category": "account"}
+{"id": "syn-0508", "text": "Feature request: dark mode for dashboard on plan 1508.", "gold_category": "product"}
+{"id": "syn-0509", "text": "Where is your privacy policy for region 1509?", "gold_category": "other"}
+{"id": "syn-0510", "text": "I was charged twice for invoice 1510. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0511", "text": "API returns 500 for endpoint /v1/items/1511. Urgent.", "gold_category": "technical"}
+{"id": "syn-0512", "text": "Need to change shipping address for order SYN-1512.", "gold_category": "shipping"}
+{"id": "syn-0513", "text": "Please delete my account and all data for user1513@example.test.", "gold_category": "account"}
+{"id": "syn-0514", "text": "Feature request: dark mode for dashboard on plan 1514. Please advise.", "gold_category": "product"}
+{"id": "syn-0515", "text": "Where is your privacy policy for region 1515?", "gold_category": "other"}
+{"id": "syn-0516", "text": "Subscription auto-renewed without notice. Order ref SYN-1516.", "gold_category": "billing"}
+{"id": "syn-0517", "text": "Cannot reset password; link expires immediately for user1517.", "gold_category": "technical"}
+{"id": "syn-0518", "text": "Need to change shipping address for order SYN-1518.", "gold_category": "shipping"}
+{"id": "syn-0519", "text": "Please delete my account and all data for user1519@example.test.", "gold_category": "account"}
+{"id": "syn-0520", "text": "Product P1520 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0521", "text": "Where is your privacy policy for region 1521?", "gold_category": "other"}
+{"id": "syn-0522", "text": "I was charged twice for invoice 1522. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0523", "text": "Cannot reset password; link expires immediately for user1523.", "gold_category": "technical"}
+{"id": "syn-0524", "text": "Need to change shipping address for order SYN-1524.", "gold_category": "shipping"}
+{"id": "syn-0525", "text": "Cannot log in after password change for account A1525.", "gold_category": "account"}
+{"id": "syn-0526", "text": "Documentation for module M1526 is incomplete.", "gold_category": "product"}
+{"id": "syn-0527", "text": "Where is your privacy policy for region 1527?", "gold_category": "other"}
+{"id": "syn-0528", "text": "I was charged twice for invoice 1528. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0529", "text": "Cannot reset password; link expires immediately for user1529. Urgent.", "gold_category": "technical"}
+{"id": "syn-0530", "text": "Wrong item delivered for order SYN-1530.", "gold_category": "shipping"}
+{"id": "syn-0531", "text": "Cannot log in after password change for account A1531.", "gold_category": "account"}
+{"id": "syn-0532", "text": "Documentation for module M1532 is incomplete.", "gold_category": "product"}
+{"id": "syn-0533", "text": "Where is your privacy policy for region 1533?", "gold_category": "other"}
+{"id": "syn-0534", "text": "My card ending 1534 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0535", "text": "API returns 500 for endpoint /v1/items/1535.", "gold_category": "technical"}
+{"id": "syn-0536", "text": "Wrong item delivered for order SYN-1536.", "gold_category": "shipping"}
+{"id": "syn-0537", "text": "Please delete my account and all data for user1537@example.test.", "gold_category": "account"}
+{"id": "syn-0538", "text": "Feature request: dark mode for dashboard on plan 1538.", "gold_category": "product"}
+{"id": "syn-0539", "text": "Where is your privacy policy for region 1539?", "gold_category": "other"}
+{"id": "syn-0540", "text": "I was charged twice for invoice 1540. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0541", "text": "App crashes when opening settings on device id 1541.", "gold_category": "technical"}
+{"id": "syn-0542", "text": "Need to change shipping address for order SYN-1542.", "gold_category": "shipping"}
+{"id": "syn-0543", "text": "Please delete my account and all data for user1543@example.test.", "gold_category": "account"}
+{"id": "syn-0544", "text": "Documentation for module M1544 is incomplete.", "gold_category": "product"}
+{"id": "syn-0545", "text": "Where is your privacy policy for region 1545? Please advise.", "gold_category": "other"}
+{"id": "syn-0546", "text": "I was charged twice for invoice 1546. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0547", "text": "Cannot reset password; link expires immediately for user1547.", "gold_category": "technical"}
+{"id": "syn-0548", "text": "Wrong item delivered for order SYN-1548.", "gold_category": "shipping"}
+{"id": "syn-0549", "text": "Two-factor codes not arriving for account A1549.", "gold_category": "account"}
+{"id": "syn-0550", "text": "Product P1550 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0551", "text": "Where is your privacy policy for region 1551? Please advise.", "gold_category": "other"}
+{"id": "syn-0552", "text": "My card ending 1552 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0553", "text": "App crashes when opening settings on device id 1553.", "gold_category": "technical"}
+{"id": "syn-0554", "text": "Need to change shipping address for order SYN-1554.", "gold_category": "shipping"}
+{"id": "syn-0555", "text": "Two-factor codes not arriving for account A1555.", "gold_category": "account"}
+{"id": "syn-0556", "text": "Feature request: dark mode for dashboard on plan 1556. Thanks.", "gold_category": "product"}
+{"id": "syn-0557", "text": "General inquiry about partnership option 1557.", "gold_category": "other"}
+{"id": "syn-0558", "text": "My card ending 1558 failed; update payment method needed. Thanks.", "gold_category": "billing"}
+{"id": "syn-0559", "text": "Cannot reset password; link expires immediately for user1559. Urgent.", "gold_category": "technical"}
+{"id": "syn-0560", "text": "Wrong item delivered for order SYN-1560.", "gold_category": "shipping"}
+{"id": "syn-0561", "text": "Two-factor codes not arriving for account A1561.", "gold_category": "account"}
+{"id": "syn-0562", "text": "Documentation for module M1562 is incomplete.", "gold_category": "product"}
+{"id": "syn-0563", "text": "Feedback only: site is slow on page 1563.", "gold_category": "other"}
+{"id": "syn-0564", "text": "My card ending 1564 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0565", "text": "API returns 500 for endpoint /v1/items/1565.", "gold_category": "technical"}
+{"id": "syn-0566", "text": "Wrong item delivered for order SYN-1566. Urgent.", "gold_category": "shipping"}
+{"id": "syn-0567", "text": "Cannot log in after password change for account A1567.", "gold_category": "account"}
+{"id": "syn-0568", "text": "Product P1568 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0569", "text": "General inquiry about partnership option 1569.", "gold_category": "other"}
+{"id": "syn-0570", "text": "My card ending 1570 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0571", "text": "Cannot reset password; link expires immediately for user1571.", "gold_category": "technical"}
+{"id": "syn-0572", "text": "Wrong item delivered for order SYN-1572.", "gold_category": "shipping"}
+{"id": "syn-0573", "text": "Cannot log in after password change for account A1573.", "gold_category": "account"}
+{"id": "syn-0574", "text": "Feature request: dark mode for dashboard on plan 1574. Thanks.", "gold_category": "product"}
+{"id": "syn-0575", "text": "Feedback only: site is slow on page 1575.", "gold_category": "other"}
+{"id": "syn-0576", "text": "I was charged twice for invoice 1576. Please refund the extra charge. Urgent.", "gold_category": "billing"}
+{"id": "syn-0577", "text": "App crashes when opening settings on device id 1577.", "gold_category": "technical"}
+{"id": "syn-0578", "text": "Need to change shipping address for order SYN-1578.", "gold_category": "shipping"}
+{"id": "syn-0579", "text": "Two-factor codes not arriving for account A1579.", "gold_category": "account"}
+{"id": "syn-0580", "text": "Product P1580 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0581", "text": "General inquiry about partnership option 1581.", "gold_category": "other"}
+{"id": "syn-0582", "text": "I was charged twice for invoice 1582. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0583", "text": "Cannot reset password; link expires immediately for user1583. Thanks.", "gold_category": "technical"}
+{"id": "syn-0584", "text": "Package SYN-1584 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0585", "text": "Cannot log in after password change for account A1585. Thanks.", "gold_category": "account"}
+{"id": "syn-0586", "text": "Product P1586 arrived damaged. Requesting replacement. Thanks.", "gold_category": "product"}
+{"id": "syn-0587", "text": "Feedback only: site is slow on page 1587.", "gold_category": "other"}
+{"id": "syn-0588", "text": "I was charged twice for invoice 1588. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0589", "text": "App crashes when opening settings on device id 1589.", "gold_category": "technical"}
+{"id": "syn-0590", "text": "Need to change shipping address for order SYN-1590. Thanks.", "gold_category": "shipping"}
+{"id": "syn-0591", "text": "Please delete my account and all data for user1591@example.test.", "gold_category": "account"}
+{"id": "syn-0592", "text": "Feature request: dark mode for dashboard on plan 1592.", "gold_category": "product"}
+{"id": "syn-0593", "text": "General inquiry about partnership option 1593.", "gold_category": "other"}
+{"id": "syn-0594", "text": "I was charged twice for invoice 1594. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0595", "text": "App crashes when opening settings on device id 1595.", "gold_category": "technical"}
+{"id": "syn-0596", "text": "Need to change shipping address for order SYN-1596.", "gold_category": "shipping"}
+{"id": "syn-0597", "text": "Please delete my account and all data for user1597@example.test.", "gold_category": "account"}
+{"id": "syn-0598", "text": "Product P1598 arrived damaged. Requesting replacement. Urgent.", "gold_category": "product"}
+{"id": "syn-0599", "text": "Where is your privacy policy for region 1599?", "gold_category": "other"}
+{"id": "syn-0600", "text": "I was charged twice for invoice 1600. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0601", "text": "API returns 500 for endpoint /v1/items/1601. Thanks.", "gold_category": "technical"}
+{"id": "syn-0602", "text": "Wrong item delivered for order SYN-1602.", "gold_category": "shipping"}
+{"id": "syn-0603", "text": "Cannot log in after password change for account A1603. Please advise.", "gold_category": "account"}
+{"id": "syn-0604", "text": "Documentation for module M1604 is incomplete.", "gold_category": "product"}
+{"id": "syn-0605", "text": "Feedback only: site is slow on page 1605.", "gold_category": "other"}
+{"id": "syn-0606", "text": "Subscription auto-renewed without notice. Order ref SYN-1606.", "gold_category": "billing"}
+{"id": "syn-0607", "text": "API returns 500 for endpoint /v1/items/1607.", "gold_category": "technical"}
+{"id": "syn-0608", "text": "Wrong item delivered for order SYN-1608. Please advise.", "gold_category": "shipping"}
+{"id": "syn-0609", "text": "Cannot log in after password change for account A1609.", "gold_category": "account"}
+{"id": "syn-0610", "text": "Documentation for module M1610 is incomplete.", "gold_category": "product"}
+{"id": "syn-0611", "text": "Feedback only: site is slow on page 1611.", "gold_category": "other"}
+{"id": "syn-0612", "text": "I was charged twice for invoice 1612. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0613", "text": "App crashes when opening settings on device id 1613.", "gold_category": "technical"}
+{"id": "syn-0614", "text": "Wrong item delivered for order SYN-1614.", "gold_category": "shipping"}
+{"id": "syn-0615", "text": "Two-factor codes not arriving for account A1615. Urgent.", "gold_category": "account"}
+{"id": "syn-0616", "text": "Feature request: dark mode for dashboard on plan 1616.", "gold_category": "product"}
+{"id": "syn-0617", "text": "Where is your privacy policy for region 1617?", "gold_category": "other"}
+{"id": "syn-0618", "text": "Subscription auto-renewed without notice. Order ref SYN-1618.", "gold_category": "billing"}
+{"id": "syn-0619", "text": "App crashes when opening settings on device id 1619. Thanks.", "gold_category": "technical"}
+{"id": "syn-0620", "text": "Package SYN-1620 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0621", "text": "Two-factor codes not arriving for account A1621.", "gold_category": "account"}
+{"id": "syn-0622", "text": "Product P1622 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0623", "text": "Feedback only: site is slow on page 1623.", "gold_category": "other"}
+{"id": "syn-0624", "text": "Subscription auto-renewed without notice. Order ref SYN-1624.", "gold_category": "billing"}
+{"id": "syn-0625", "text": "App crashes when opening settings on device id 1625.", "gold_category": "technical"}
+{"id": "syn-0626", "text": "Need to change shipping address for order SYN-1626.", "gold_category": "shipping"}
+{"id": "syn-0627", "text": "Please delete my account and all data for user1627@example.test.", "gold_category": "account"}
+{"id": "syn-0628", "text": "Documentation for module M1628 is incomplete. Urgent.", "gold_category": "product"}
+{"id": "syn-0629", "text": "Feedback only: site is slow on page 1629.", "gold_category": "other"}
+{"id": "syn-0630", "text": "I was charged twice for invoice 1630. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0631", "text": "App crashes when opening settings on device id 1631.", "gold_category": "technical"}
+{"id": "syn-0632", "text": "Wrong item delivered for order SYN-1632.", "gold_category": "shipping"}
+{"id": "syn-0633", "text": "Cannot log in after password change for account A1633.", "gold_category": "account"}
+{"id": "syn-0634", "text": "Documentation for module M1634 is incomplete.", "gold_category": "product"}
+{"id": "syn-0635", "text": "Where is your privacy policy for region 1635?", "gold_category": "other"}
+{"id": "syn-0636", "text": "My card ending 1636 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0637", "text": "Cannot reset password; link expires immediately for user1637.", "gold_category": "technical"}
+{"id": "syn-0638", "text": "Need to change shipping address for order SYN-1638.", "gold_category": "shipping"}
+{"id": "syn-0639", "text": "Two-factor codes not arriving for account A1639.", "gold_category": "account"}
+{"id": "syn-0640", "text": "Documentation for module M1640 is incomplete.", "gold_category": "product"}
+{"id": "syn-0641", "text": "General inquiry about partnership option 1641.", "gold_category": "other"}
+{"id": "syn-0642", "text": "My card ending 1642 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0643", "text": "API returns 500 for endpoint /v1/items/1643. Thanks.", "gold_category": "technical"}
+{"id": "syn-0644", "text": "Need to change shipping address for order SYN-1644.", "gold_category": "shipping"}
+{"id": "syn-0645", "text": "Cannot log in after password change for account A1645. Please advise.", "gold_category": "account"}
+{"id": "syn-0646", "text": "Product P1646 arrived damaged. Requesting replacement. Please advise.", "gold_category": "product"}
+{"id": "syn-0647", "text": "General inquiry about partnership option 1647.", "gold_category": "other"}
+{"id": "syn-0648", "text": "My card ending 1648 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0649", "text": "API returns 500 for endpoint /v1/items/1649.", "gold_category": "technical"}
+{"id": "syn-0650", "text": "Wrong item delivered for order SYN-1650.", "gold_category": "shipping"}
+{"id": "syn-0651", "text": "Two-factor codes not arriving for account A1651.", "gold_category": "account"}
+{"id": "syn-0652", "text": "Product P1652 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0653", "text": "Feedback only: site is slow on page 1653. Thanks.", "gold_category": "other"}
+{"id": "syn-0654", "text": "My card ending 1654 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0655", "text": "API returns 500 for endpoint /v1/items/1655.", "gold_category": "technical"}
+{"id": "syn-0656", "text": "Wrong item delivered for order SYN-1656.", "gold_category": "shipping"}
+{"id": "syn-0657", "text": "Cannot log in after password change for account A1657.", "gold_category": "account"}
+{"id": "syn-0658", "text": "Product P1658 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0659", "text": "General inquiry about partnership option 1659.", "gold_category": "other"}
+{"id": "syn-0660", "text": "Subscription auto-renewed without notice. Order ref SYN-1660.", "gold_category": "billing"}
+{"id": "syn-0661", "text": "Cannot reset password; link expires immediately for user1661.", "gold_category": "technical"}
+{"id": "syn-0662", "text": "Package SYN-1662 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0663", "text": "Two-factor codes not arriving for account A1663. Thanks.", "gold_category": "account"}
+{"id": "syn-0664", "text": "Feature request: dark mode for dashboard on plan 1664.", "gold_category": "product"}
+{"id": "syn-0665", "text": "General inquiry about partnership option 1665.", "gold_category": "other"}
+{"id": "syn-0666", "text": "My card ending 1666 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0667", "text": "App crashes when opening settings on device id 1667.", "gold_category": "technical"}
+{"id": "syn-0668", "text": "Wrong item delivered for order SYN-1668.", "gold_category": "shipping"}
+{"id": "syn-0669", "text": "Please delete my account and all data for user1669@example.test.", "gold_category": "account"}
+{"id": "syn-0670", "text": "Product P1670 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0671", "text": "Feedback only: site is slow on page 1671.", "gold_category": "other"}
+{"id": "syn-0672", "text": "I was charged twice for invoice 1672. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0673", "text": "Cannot reset password; link expires immediately for user1673. Thanks.", "gold_category": "technical"}
+{"id": "syn-0674", "text": "Wrong item delivered for order SYN-1674.", "gold_category": "shipping"}
+{"id": "syn-0675", "text": "Please delete my account and all data for user1675@example.test.", "gold_category": "account"}
+{"id": "syn-0676", "text": "Documentation for module M1676 is incomplete.", "gold_category": "product"}
+{"id": "syn-0677", "text": "Feedback only: site is slow on page 1677.", "gold_category": "other"}
+{"id": "syn-0678", "text": "I was charged twice for invoice 1678. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0679", "text": "API returns 500 for endpoint /v1/items/1679.", "gold_category": "technical"}
+{"id": "syn-0680", "text": "Need to change shipping address for order SYN-1680.", "gold_category": "shipping"}
+{"id": "syn-0681", "text": "Two-factor codes not arriving for account A1681.", "gold_category": "account"}
+{"id": "syn-0682", "text": "Product P1682 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0683", "text": "General inquiry about partnership option 1683.", "gold_category": "other"}
+{"id": "syn-0684", "text": "Subscription auto-renewed without notice. Order ref SYN-1684.", "gold_category": "billing"}
+{"id": "syn-0685", "text": "App crashes when opening settings on device id 1685.", "gold_category": "technical"}
+{"id": "syn-0686", "text": "Wrong item delivered for order SYN-1686.", "gold_category": "shipping"}
+{"id": "syn-0687", "text": "Cannot log in after password change for account A1687.", "gold_category": "account"}
+{"id": "syn-0688", "text": "Product P1688 arrived damaged. Requesting replacement. Please advise.", "gold_category": "product"}
+{"id": "syn-0689", "text": "General inquiry about partnership option 1689.", "gold_category": "other"}
+{"id": "syn-0690", "text": "I was charged twice for invoice 1690. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0691", "text": "API returns 500 for endpoint /v1/items/1691.", "gold_category": "technical"}
+{"id": "syn-0692", "text": "Need to change shipping address for order SYN-1692.", "gold_category": "shipping"}
+{"id": "syn-0693", "text": "Cannot log in after password change for account A1693. Urgent.", "gold_category": "account"}
+{"id": "syn-0694", "text": "Product P1694 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0695", "text": "General inquiry about partnership option 1695.", "gold_category": "other"}
+{"id": "syn-0696", "text": "Subscription auto-renewed without notice. Order ref SYN-1696. Please advise.", "gold_category": "billing"}
+{"id": "syn-0697", "text": "API returns 500 for endpoint /v1/items/1697.", "gold_category": "technical"}
+{"id": "syn-0698", "text": "Need to change shipping address for order SYN-1698.", "gold_category": "shipping"}
+{"id": "syn-0699", "text": "Please delete my account and all data for user1699@example.test.", "gold_category": "account"}
+{"id": "syn-0700", "text": "Documentation for module M1700 is incomplete.", "gold_category": "product"}
+{"id": "syn-0701", "text": "Feedback only: site is slow on page 1701.", "gold_category": "other"}
+{"id": "syn-0702", "text": "Subscription auto-renewed without notice. Order ref SYN-1702.", "gold_category": "billing"}
+{"id": "syn-0703", "text": "API returns 500 for endpoint /v1/items/1703. Urgent.", "gold_category": "technical"}
+{"id": "syn-0704", "text": "Need to change shipping address for order SYN-1704.", "gold_category": "shipping"}
+{"id": "syn-0705", "text": "Please delete my account and all data for user1705@example.test.", "gold_category": "account"}
+{"id": "syn-0706", "text": "Feature request: dark mode for dashboard on plan 1706.", "gold_category": "product"}
+{"id": "syn-0707", "text": "Where is your privacy policy for region 1707?", "gold_category": "other"}
+{"id": "syn-0708", "text": "I was charged twice for invoice 1708. Please refund the extra charge. Urgent.", "gold_category": "billing"}
+{"id": "syn-0709", "text": "App crashes when opening settings on device id 1709.", "gold_category": "technical"}
+{"id": "syn-0710", "text": "Package SYN-1710 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0711", "text": "Two-factor codes not arriving for account A1711.", "gold_category": "account"}
+{"id": "syn-0712", "text": "Documentation for module M1712 is incomplete.", "gold_category": "product"}
+{"id": "syn-0713", "text": "Feedback only: site is slow on page 1713.", "gold_category": "other"}
+{"id": "syn-0714", "text": "My card ending 1714 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0715", "text": "Cannot reset password; link expires immediately for user1715.", "gold_category": "technical"}
+{"id": "syn-0716", "text": "Wrong item delivered for order SYN-1716.", "gold_category": "shipping"}
+{"id": "syn-0717", "text": "Two-factor codes not arriving for account A1717.", "gold_category": "account"}
+{"id": "syn-0718", "text": "Product P1718 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0719", "text": "Where is your privacy policy for region 1719?", "gold_category": "other"}
+{"id": "syn-0720", "text": "I was charged twice for invoice 1720. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0721", "text": "App crashes when opening settings on device id 1721. Please advise.", "gold_category": "technical"}
+{"id": "syn-0722", "text": "Wrong item delivered for order SYN-1722.", "gold_category": "shipping"}
+{"id": "syn-0723", "text": "Two-factor codes not arriving for account A1723.", "gold_category": "account"}
+{"id": "syn-0724", "text": "Product P1724 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0725", "text": "Where is your privacy policy for region 1725?", "gold_category": "other"}
+{"id": "syn-0726", "text": "My card ending 1726 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0727", "text": "App crashes when opening settings on device id 1727.", "gold_category": "technical"}
+{"id": "syn-0728", "text": "Need to change shipping address for order SYN-1728.", "gold_category": "shipping"}
+{"id": "syn-0729", "text": "Please delete my account and all data for user1729@example.test. Please advise.", "gold_category": "account"}
+{"id": "syn-0730", "text": "Feature request: dark mode for dashboard on plan 1730.", "gold_category": "product"}
+{"id": "syn-0731", "text": "Feedback only: site is slow on page 1731.", "gold_category": "other"}
+{"id": "syn-0732", "text": "Subscription auto-renewed without notice. Order ref SYN-1732.", "gold_category": "billing"}
+{"id": "syn-0733", "text": "API returns 500 for endpoint /v1/items/1733. Please advise.", "gold_category": "technical"}
+{"id": "syn-0734", "text": "Package SYN-1734 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0735", "text": "Please delete my account and all data for user1735@example.test.", "gold_category": "account"}
+{"id": "syn-0736", "text": "Documentation for module M1736 is incomplete.", "gold_category": "product"}
+{"id": "syn-0737", "text": "General inquiry about partnership option 1737.", "gold_category": "other"}
+{"id": "syn-0738", "text": "I was charged twice for invoice 1738. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0739", "text": "API returns 500 for endpoint /v1/items/1739.", "gold_category": "technical"}
+{"id": "syn-0740", "text": "Wrong item delivered for order SYN-1740.", "gold_category": "shipping"}
+{"id": "syn-0741", "text": "Two-factor codes not arriving for account A1741.", "gold_category": "account"}
+{"id": "syn-0742", "text": "Documentation for module M1742 is incomplete.", "gold_category": "product"}
+{"id": "syn-0743", "text": "Feedback only: site is slow on page 1743. Please advise.", "gold_category": "other"}
+{"id": "syn-0744", "text": "My card ending 1744 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0745", "text": "App crashes when opening settings on device id 1745.", "gold_category": "technical"}
+{"id": "syn-0746", "text": "Package SYN-1746 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0747", "text": "Please delete my account and all data for user1747@example.test.", "gold_category": "account"}
+{"id": "syn-0748", "text": "Feature request: dark mode for dashboard on plan 1748.", "gold_category": "product"}
+{"id": "syn-0749", "text": "General inquiry about partnership option 1749.", "gold_category": "other"}
+{"id": "syn-0750", "text": "My card ending 1750 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0751", "text": "App crashes when opening settings on device id 1751.", "gold_category": "technical"}
+{"id": "syn-0752", "text": "Need to change shipping address for order SYN-1752.", "gold_category": "shipping"}
+{"id": "syn-0753", "text": "Two-factor codes not arriving for account A1753. Urgent.", "gold_category": "account"}
+{"id": "syn-0754", "text": "Documentation for module M1754 is incomplete. Urgent.", "gold_category": "product"}
+{"id": "syn-0755", "text": "General inquiry about partnership option 1755.", "gold_category": "other"}
+{"id": "syn-0756", "text": "Subscription auto-renewed without notice. Order ref SYN-1756.", "gold_category": "billing"}
+{"id": "syn-0757", "text": "App crashes when opening settings on device id 1757.", "gold_category": "technical"}
+{"id": "syn-0758", "text": "Package SYN-1758 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0759", "text": "Two-factor codes not arriving for account A1759.", "gold_category": "account"}
+{"id": "syn-0760", "text": "Feature request: dark mode for dashboard on plan 1760.", "gold_category": "product"}
+{"id": "syn-0761", "text": "Feedback only: site is slow on page 1761.", "gold_category": "other"}
+{"id": "syn-0762", "text": "I was charged twice for invoice 1762. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0763", "text": "API returns 500 for endpoint /v1/items/1763.", "gold_category": "technical"}
+{"id": "syn-0764", "text": "Wrong item delivered for order SYN-1764.", "gold_category": "shipping"}
+{"id": "syn-0765", "text": "Cannot log in after password change for account A1765.", "gold_category": "account"}
+{"id": "syn-0766", "text": "Documentation for module M1766 is incomplete.", "gold_category": "product"}
+{"id": "syn-0767", "text": "Where is your privacy policy for region 1767?", "gold_category": "other"}
+{"id": "syn-0768", "text": "My card ending 1768 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0769", "text": "API returns 500 for endpoint /v1/items/1769.", "gold_category": "technical"}
+{"id": "syn-0770", "text": "Package SYN-1770 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0771", "text": "Cannot log in after password change for account A1771.", "gold_category": "account"}
+{"id": "syn-0772", "text": "Product P1772 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0773", "text": "Where is your privacy policy for region 1773?", "gold_category": "other"}
+{"id": "syn-0774", "text": "I was charged twice for invoice 1774. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0775", "text": "Cannot reset password; link expires immediately for user1775.", "gold_category": "technical"}
+{"id": "syn-0776", "text": "Wrong item delivered for order SYN-1776. Thanks.", "gold_category": "shipping"}
+{"id": "syn-0777", "text": "Please delete my account and all data for user1777@example.test.", "gold_category": "account"}
+{"id": "syn-0778", "text": "Documentation for module M1778 is incomplete. Urgent.", "gold_category": "product"}
+{"id": "syn-0779", "text": "General inquiry about partnership option 1779.", "gold_category": "other"}
+{"id": "syn-0780", "text": "I was charged twice for invoice 1780. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0781", "text": "API returns 500 for endpoint /v1/items/1781.", "gold_category": "technical"}
+{"id": "syn-0782", "text": "Wrong item delivered for order SYN-1782. Please advise.", "gold_category": "shipping"}
+{"id": "syn-0783", "text": "Please delete my account and all data for user1783@example.test.", "gold_category": "account"}
+{"id": "syn-0784", "text": "Product P1784 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0785", "text": "General inquiry about partnership option 1785.", "gold_category": "other"}
+{"id": "syn-0786", "text": "I was charged twice for invoice 1786. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0787", "text": "Cannot reset password; link expires immediately for user1787.", "gold_category": "technical"}
+{"id": "syn-0788", "text": "Package SYN-1788 is 5 days late. Tracking shows no movement. Urgent.", "gold_category": "shipping"}
+{"id": "syn-0789", "text": "Please delete my account and all data for user1789@example.test.", "gold_category": "account"}
+{"id": "syn-0790", "text": "Product P1790 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0791", "text": "Where is your privacy policy for region 1791?", "gold_category": "other"}
+{"id": "syn-0792", "text": "I was charged twice for invoice 1792. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0793", "text": "App crashes when opening settings on device id 1793.", "gold_category": "technical"}
+{"id": "syn-0794", "text": "Package SYN-1794 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0795", "text": "Two-factor codes not arriving for account A1795.", "gold_category": "account"}
+{"id": "syn-0796", "text": "Feature request: dark mode for dashboard on plan 1796. Urgent.", "gold_category": "product"}
+{"id": "syn-0797", "text": "General inquiry about partnership option 1797.", "gold_category": "other"}
+{"id": "syn-0798", "text": "I was charged twice for invoice 1798. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0799", "text": "Cannot reset password; link expires immediately for user1799.", "gold_category": "technical"}
+{"id": "syn-0800", "text": "Wrong item delivered for order SYN-1800. Urgent.", "gold_category": "shipping"}
+{"id": "syn-0801", "text": "Two-factor codes not arriving for account A1801.", "gold_category": "account"}
+{"id": "syn-0802", "text": "Documentation for module M1802 is incomplete.", "gold_category": "product"}
+{"id": "syn-0803", "text": "General inquiry about partnership option 1803.", "gold_category": "other"}
+{"id": "syn-0804", "text": "My card ending 1804 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0805", "text": "Cannot reset password; link expires immediately for user1805.", "gold_category": "technical"}
+{"id": "syn-0806", "text": "Need to change shipping address for order SYN-1806.", "gold_category": "shipping"}
+{"id": "syn-0807", "text": "Two-factor codes not arriving for account A1807.", "gold_category": "account"}
+{"id": "syn-0808", "text": "Documentation for module M1808 is incomplete.", "gold_category": "product"}
+{"id": "syn-0809", "text": "General inquiry about partnership option 1809.", "gold_category": "other"}
+{"id": "syn-0810", "text": "Subscription auto-renewed without notice. Order ref SYN-1810.", "gold_category": "billing"}
+{"id": "syn-0811", "text": "Cannot reset password; link expires immediately for user1811.", "gold_category": "technical"}
+{"id": "syn-0812", "text": "Wrong item delivered for order SYN-1812.", "gold_category": "shipping"}
+{"id": "syn-0813", "text": "Cannot log in after password change for account A1813.", "gold_category": "account"}
+{"id": "syn-0814", "text": "Feature request: dark mode for dashboard on plan 1814.", "gold_category": "product"}
+{"id": "syn-0815", "text": "General inquiry about partnership option 1815.", "gold_category": "other"}
+{"id": "syn-0816", "text": "I was charged twice for invoice 1816. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0817", "text": "Cannot reset password; link expires immediately for user1817.", "gold_category": "technical"}
+{"id": "syn-0818", "text": "Package SYN-1818 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0819", "text": "Two-factor codes not arriving for account A1819.", "gold_category": "account"}
+{"id": "syn-0820", "text": "Product P1820 arrived damaged. Requesting replacement. Please advise.", "gold_category": "product"}
+{"id": "syn-0821", "text": "Where is your privacy policy for region 1821?", "gold_category": "other"}
+{"id": "syn-0822", "text": "I was charged twice for invoice 1822. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0823", "text": "Cannot reset password; link expires immediately for user1823.", "gold_category": "technical"}
+{"id": "syn-0824", "text": "Need to change shipping address for order SYN-1824.", "gold_category": "shipping"}
+{"id": "syn-0825", "text": "Cannot log in after password change for account A1825.", "gold_category": "account"}
+{"id": "syn-0826", "text": "Product P1826 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0827", "text": "Where is your privacy policy for region 1827? Thanks.", "gold_category": "other"}
+{"id": "syn-0828", "text": "I was charged twice for invoice 1828. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0829", "text": "App crashes when opening settings on device id 1829.", "gold_category": "technical"}
+{"id": "syn-0830", "text": "Wrong item delivered for order SYN-1830.", "gold_category": "shipping"}
+{"id": "syn-0831", "text": "Two-factor codes not arriving for account A1831.", "gold_category": "account"}
+{"id": "syn-0832", "text": "Product P1832 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0833", "text": "General inquiry about partnership option 1833.", "gold_category": "other"}
+{"id": "syn-0834", "text": "I was charged twice for invoice 1834. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0835", "text": "API returns 500 for endpoint /v1/items/1835.", "gold_category": "technical"}
+{"id": "syn-0836", "text": "Wrong item delivered for order SYN-1836.", "gold_category": "shipping"}
+{"id": "syn-0837", "text": "Please delete my account and all data for user1837@example.test.", "gold_category": "account"}
+{"id": "syn-0838", "text": "Feature request: dark mode for dashboard on plan 1838.", "gold_category": "product"}
+{"id": "syn-0839", "text": "General inquiry about partnership option 1839.", "gold_category": "other"}
+{"id": "syn-0840", "text": "My card ending 1840 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0841", "text": "Cannot reset password; link expires immediately for user1841.", "gold_category": "technical"}
+{"id": "syn-0842", "text": "Package SYN-1842 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0843", "text": "Cannot log in after password change for account A1843.", "gold_category": "account"}
+{"id": "syn-0844", "text": "Product P1844 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0845", "text": "Where is your privacy policy for region 1845? Urgent.", "gold_category": "other"}
+{"id": "syn-0846", "text": "Subscription auto-renewed without notice. Order ref SYN-1846.", "gold_category": "billing"}
+{"id": "syn-0847", "text": "API returns 500 for endpoint /v1/items/1847.", "gold_category": "technical"}
+{"id": "syn-0848", "text": "Wrong item delivered for order SYN-1848.", "gold_category": "shipping"}
+{"id": "syn-0849", "text": "Please delete my account and all data for user1849@example.test.", "gold_category": "account"}
+{"id": "syn-0850", "text": "Product P1850 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0851", "text": "Where is your privacy policy for region 1851?", "gold_category": "other"}
+{"id": "syn-0852", "text": "My card ending 1852 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0853", "text": "App crashes when opening settings on device id 1853. Please advise.", "gold_category": "technical"}
+{"id": "syn-0854", "text": "Wrong item delivered for order SYN-1854.", "gold_category": "shipping"}
+{"id": "syn-0855", "text": "Two-factor codes not arriving for account A1855.", "gold_category": "account"}
+{"id": "syn-0856", "text": "Product P1856 arrived damaged. Requesting replacement. Please advise.", "gold_category": "product"}
+{"id": "syn-0857", "text": "Feedback only: site is slow on page 1857.", "gold_category": "other"}
+{"id": "syn-0858", "text": "I was charged twice for invoice 1858. Please refund the extra charge. Thanks.", "gold_category": "billing"}
+{"id": "syn-0859", "text": "Cannot reset password; link expires immediately for user1859.", "gold_category": "technical"}
+{"id": "syn-0860", "text": "Wrong item delivered for order SYN-1860.", "gold_category": "shipping"}
+{"id": "syn-0861", "text": "Cannot log in after password change for account A1861.", "gold_category": "account"}
+{"id": "syn-0862", "text": "Documentation for module M1862 is incomplete.", "gold_category": "product"}
+{"id": "syn-0863", "text": "Where is your privacy policy for region 1863?", "gold_category": "other"}
+{"id": "syn-0864", "text": "I was charged twice for invoice 1864. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0865", "text": "Cannot reset password; link expires immediately for user1865.", "gold_category": "technical"}
+{"id": "syn-0866", "text": "Wrong item delivered for order SYN-1866.", "gold_category": "shipping"}
+{"id": "syn-0867", "text": "Cannot log in after password change for account A1867.", "gold_category": "account"}
+{"id": "syn-0868", "text": "Product P1868 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0869", "text": "Where is your privacy policy for region 1869?", "gold_category": "other"}
+{"id": "syn-0870", "text": "Subscription auto-renewed without notice. Order ref SYN-1870. Urgent.", "gold_category": "billing"}
+{"id": "syn-0871", "text": "Cannot reset password; link expires immediately for user1871.", "gold_category": "technical"}
+{"id": "syn-0872", "text": "Need to change shipping address for order SYN-1872.", "gold_category": "shipping"}
+{"id": "syn-0873", "text": "Please delete my account and all data for user1873@example.test.", "gold_category": "account"}
+{"id": "syn-0874", "text": "Product P1874 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0875", "text": "Where is your privacy policy for region 1875?", "gold_category": "other"}
+{"id": "syn-0876", "text": "Subscription auto-renewed without notice. Order ref SYN-1876.", "gold_category": "billing"}
+{"id": "syn-0877", "text": "App crashes when opening settings on device id 1877.", "gold_category": "technical"}
+{"id": "syn-0878", "text": "Wrong item delivered for order SYN-1878.", "gold_category": "shipping"}
+{"id": "syn-0879", "text": "Two-factor codes not arriving for account A1879. Please advise.", "gold_category": "account"}
+{"id": "syn-0880", "text": "Feature request: dark mode for dashboard on plan 1880.", "gold_category": "product"}
+{"id": "syn-0881", "text": "General inquiry about partnership option 1881.", "gold_category": "other"}
+{"id": "syn-0882", "text": "Subscription auto-renewed without notice. Order ref SYN-1882.", "gold_category": "billing"}
+{"id": "syn-0883", "text": "API returns 500 for endpoint /v1/items/1883.", "gold_category": "technical"}
+{"id": "syn-0884", "text": "Package SYN-1884 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0885", "text": "Cannot log in after password change for account A1885.", "gold_category": "account"}
+{"id": "syn-0886", "text": "Feature request: dark mode for dashboard on plan 1886. Please advise.", "gold_category": "product"}
+{"id": "syn-0887", "text": "Feedback only: site is slow on page 1887.", "gold_category": "other"}
+{"id": "syn-0888", "text": "Subscription auto-renewed without notice. Order ref SYN-1888. Thanks.", "gold_category": "billing"}
+{"id": "syn-0889", "text": "App crashes when opening settings on device id 1889.", "gold_category": "technical"}
+{"id": "syn-0890", "text": "Need to change shipping address for order SYN-1890.", "gold_category": "shipping"}
+{"id": "syn-0891", "text": "Two-factor codes not arriving for account A1891.", "gold_category": "account"}
+{"id": "syn-0892", "text": "Feature request: dark mode for dashboard on plan 1892.", "gold_category": "product"}
+{"id": "syn-0893", "text": "General inquiry about partnership option 1893. Urgent.", "gold_category": "other"}
+{"id": "syn-0894", "text": "Subscription auto-renewed without notice. Order ref SYN-1894. Urgent.", "gold_category": "billing"}
+{"id": "syn-0895", "text": "Cannot reset password; link expires immediately for user1895.", "gold_category": "technical"}
+{"id": "syn-0896", "text": "Package SYN-1896 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0897", "text": "Two-factor codes not arriving for account A1897.", "gold_category": "account"}
+{"id": "syn-0898", "text": "Product P1898 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0899", "text": "General inquiry about partnership option 1899.", "gold_category": "other"}
+{"id": "syn-0900", "text": "I was charged twice for invoice 1900. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0901", "text": "Cannot reset password; link expires immediately for user1901.", "gold_category": "technical"}
+{"id": "syn-0902", "text": "Package SYN-1902 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0903", "text": "Two-factor codes not arriving for account A1903.", "gold_category": "account"}
+{"id": "syn-0904", "text": "Documentation for module M1904 is incomplete.", "gold_category": "product"}
+{"id": "syn-0905", "text": "General inquiry about partnership option 1905.", "gold_category": "other"}
+{"id": "syn-0906", "text": "Subscription auto-renewed without notice. Order ref SYN-1906.", "gold_category": "billing"}
+{"id": "syn-0907", "text": "API returns 500 for endpoint /v1/items/1907. Urgent.", "gold_category": "technical"}
+{"id": "syn-0908", "text": "Need to change shipping address for order SYN-1908.", "gold_category": "shipping"}
+{"id": "syn-0909", "text": "Two-factor codes not arriving for account A1909.", "gold_category": "account"}
+{"id": "syn-0910", "text": "Documentation for module M1910 is incomplete.", "gold_category": "product"}
+{"id": "syn-0911", "text": "General inquiry about partnership option 1911.", "gold_category": "other"}
+{"id": "syn-0912", "text": "Subscription auto-renewed without notice. Order ref SYN-1912.", "gold_category": "billing"}
+{"id": "syn-0913", "text": "Cannot reset password; link expires immediately for user1913.", "gold_category": "technical"}
+{"id": "syn-0914", "text": "Need to change shipping address for order SYN-1914. Thanks.", "gold_category": "shipping"}
+{"id": "syn-0915", "text": "Cannot log in after password change for account A1915. Please advise.", "gold_category": "account"}
+{"id": "syn-0916", "text": "Documentation for module M1916 is incomplete.", "gold_category": "product"}
+{"id": "syn-0917", "text": "General inquiry about partnership option 1917.", "gold_category": "other"}
+{"id": "syn-0918", "text": "My card ending 1918 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0919", "text": "App crashes when opening settings on device id 1919.", "gold_category": "technical"}
+{"id": "syn-0920", "text": "Need to change shipping address for order SYN-1920.", "gold_category": "shipping"}
+{"id": "syn-0921", "text": "Two-factor codes not arriving for account A1921.", "gold_category": "account"}
+{"id": "syn-0922", "text": "Feature request: dark mode for dashboard on plan 1922.", "gold_category": "product"}
+{"id": "syn-0923", "text": "Feedback only: site is slow on page 1923.", "gold_category": "other"}
+{"id": "syn-0924", "text": "My card ending 1924 failed; update payment method needed. Thanks.", "gold_category": "billing"}
+{"id": "syn-0925", "text": "App crashes when opening settings on device id 1925.", "gold_category": "technical"}
+{"id": "syn-0926", "text": "Wrong item delivered for order SYN-1926.", "gold_category": "shipping"}
+{"id": "syn-0927", "text": "Please delete my account and all data for user1927@example.test.", "gold_category": "account"}
+{"id": "syn-0928", "text": "Feature request: dark mode for dashboard on plan 1928.", "gold_category": "product"}
+{"id": "syn-0929", "text": "Where is your privacy policy for region 1929?", "gold_category": "other"}
+{"id": "syn-0930", "text": "My card ending 1930 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0931", "text": "App crashes when opening settings on device id 1931.", "gold_category": "technical"}
+{"id": "syn-0932", "text": "Need to change shipping address for order SYN-1932.", "gold_category": "shipping"}
+{"id": "syn-0933", "text": "Please delete my account and all data for user1933@example.test.", "gold_category": "account"}
+{"id": "syn-0934", "text": "Product P1934 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0935", "text": "General inquiry about partnership option 1935. Thanks.", "gold_category": "other"}
+{"id": "syn-0936", "text": "My card ending 1936 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0937", "text": "Cannot reset password; link expires immediately for user1937.", "gold_category": "technical"}
+{"id": "syn-0938", "text": "Package SYN-1938 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0939", "text": "Two-factor codes not arriving for account A1939.", "gold_category": "account"}
+{"id": "syn-0940", "text": "Product P1940 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0941", "text": "Where is your privacy policy for region 1941?", "gold_category": "other"}
+{"id": "syn-0942", "text": "My card ending 1942 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0943", "text": "API returns 500 for endpoint /v1/items/1943.", "gold_category": "technical"}
+{"id": "syn-0944", "text": "Package SYN-1944 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0945", "text": "Two-factor codes not arriving for account A1945.", "gold_category": "account"}
+{"id": "syn-0946", "text": "Product P1946 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0947", "text": "Where is your privacy policy for region 1947? Urgent.", "gold_category": "other"}
+{"id": "syn-0948", "text": "My card ending 1948 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0949", "text": "Cannot reset password; link expires immediately for user1949.", "gold_category": "technical"}
+{"id": "syn-0950", "text": "Wrong item delivered for order SYN-1950.", "gold_category": "shipping"}
+{"id": "syn-0951", "text": "Cannot log in after password change for account A1951.", "gold_category": "account"}
+{"id": "syn-0952", "text": "Feature request: dark mode for dashboard on plan 1952.", "gold_category": "product"}
+{"id": "syn-0953", "text": "Where is your privacy policy for region 1953?", "gold_category": "other"}
+{"id": "syn-0954", "text": "My card ending 1954 failed; update payment method needed. Please advise.", "gold_category": "billing"}
+{"id": "syn-0955", "text": "App crashes when opening settings on device id 1955.", "gold_category": "technical"}
+{"id": "syn-0956", "text": "Wrong item delivered for order SYN-1956. Please advise.", "gold_category": "shipping"}
+{"id": "syn-0957", "text": "Please delete my account and all data for user1957@example.test.", "gold_category": "account"}
+{"id": "syn-0958", "text": "Feature request: dark mode for dashboard on plan 1958.", "gold_category": "product"}
+{"id": "syn-0959", "text": "Feedback only: site is slow on page 1959.", "gold_category": "other"}
+{"id": "syn-0960", "text": "I was charged twice for invoice 1960. Please refund the extra charge. Thanks.", "gold_category": "billing"}
+{"id": "syn-0961", "text": "API returns 500 for endpoint /v1/items/1961.", "gold_category": "technical"}
+{"id": "syn-0962", "text": "Wrong item delivered for order SYN-1962.", "gold_category": "shipping"}
+{"id": "syn-0963", "text": "Please delete my account and all data for user1963@example.test.", "gold_category": "account"}
+{"id": "syn-0964", "text": "Product P1964 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0965", "text": "Where is your privacy policy for region 1965?", "gold_category": "other"}
+{"id": "syn-0966", "text": "I was charged twice for invoice 1966. Please refund the extra charge. Please advise.", "gold_category": "billing"}
+{"id": "syn-0967", "text": "API returns 500 for endpoint /v1/items/1967.", "gold_category": "technical"}
+{"id": "syn-0968", "text": "Need to change shipping address for order SYN-1968.", "gold_category": "shipping"}
+{"id": "syn-0969", "text": "Two-factor codes not arriving for account A1969.", "gold_category": "account"}
+{"id": "syn-0970", "text": "Product P1970 arrived damaged. Requesting replacement.", "gold_category": "product"}
+{"id": "syn-0971", "text": "Feedback only: site is slow on page 1971.", "gold_category": "other"}
+{"id": "syn-0972", "text": "My card ending 1972 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0973", "text": "Cannot reset password; link expires immediately for user1973.", "gold_category": "technical"}
+{"id": "syn-0974", "text": "Need to change shipping address for order SYN-1974.", "gold_category": "shipping"}
+{"id": "syn-0975", "text": "Two-factor codes not arriving for account A1975.", "gold_category": "account"}
+{"id": "syn-0976", "text": "Documentation for module M1976 is incomplete.", "gold_category": "product"}
+{"id": "syn-0977", "text": "Where is your privacy policy for region 1977?", "gold_category": "other"}
+{"id": "syn-0978", "text": "My card ending 1978 failed; update payment method needed.", "gold_category": "billing"}
+{"id": "syn-0979", "text": "App crashes when opening settings on device id 1979.", "gold_category": "technical"}
+{"id": "syn-0980", "text": "Need to change shipping address for order SYN-1980.", "gold_category": "shipping"}
+{"id": "syn-0981", "text": "Two-factor codes not arriving for account A1981.", "gold_category": "account"}
+{"id": "syn-0982", "text": "Documentation for module M1982 is incomplete. Urgent.", "gold_category": "product"}
+{"id": "syn-0983", "text": "Where is your privacy policy for region 1983?", "gold_category": "other"}
+{"id": "syn-0984", "text": "Subscription auto-renewed without notice. Order ref SYN-1984.", "gold_category": "billing"}
+{"id": "syn-0985", "text": "Cannot reset password; link expires immediately for user1985. Urgent.", "gold_category": "technical"}
+{"id": "syn-0986", "text": "Package SYN-1986 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0987", "text": "Two-factor codes not arriving for account A1987.", "gold_category": "account"}
+{"id": "syn-0988", "text": "Feature request: dark mode for dashboard on plan 1988. Please advise.", "gold_category": "product"}
+{"id": "syn-0989", "text": "General inquiry about partnership option 1989. Please advise.", "gold_category": "other"}
+{"id": "syn-0990", "text": "I was charged twice for invoice 1990. Please refund the extra charge.", "gold_category": "billing"}
+{"id": "syn-0991", "text": "API returns 500 for endpoint /v1/items/1991.", "gold_category": "technical"}
+{"id": "syn-0992", "text": "Package SYN-1992 is 5 days late. Tracking shows no movement.", "gold_category": "shipping"}
+{"id": "syn-0993", "text": "Cannot log in after password change for account A1993.", "gold_category": "account"}
+{"id": "syn-0994", "text": "Documentation for module M1994 is incomplete.", "gold_category": "product"}
+{"id": "syn-0995", "text": "Feedback only: site is slow on page 1995.", "gold_category": "other"}
+{"id": "syn-0996", "text": "Subscription auto-renewed without notice. Order ref SYN-1996. Thanks.", "gold_category": "billing"}
+{"id": "syn-0997", "text": "Cannot reset password; link expires immediately for user1997.", "gold_category": "technical"}
+{"id": "syn-0998", "text": "Need to change shipping address for order SYN-1998.", "gold_category": "shipping"}
+{"id": "syn-0999", "text": "Please delete my account and all data for user1999@example.test.", "gold_category": "account"}

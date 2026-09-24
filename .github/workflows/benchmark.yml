@@ -1,0 +1,80 @@
+name: Local LLM Benchmark
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max records to process (default 1000 = full synthetic set)"
+        required: false
+        default: "1000"
+  push:
+    branches: [main]
+    paths:
+      - "benchmark.py"
+      - "model_runner.py"
+      - ".github/workflows/benchmark.yml"
+
+# Public repo: free standard runners. Job hard cap = 6 hours.
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      MODEL_REPO: Qwen/Qwen3-4B-GGUF
+      MODEL_FILE: Qwen3-4B-Q4_K_M.gguf
+      MODEL_DIR: models
+      LLM_THREADS: "3"
+      LLM_CTX: "1024"
+      CMAKE_ARGS: "-DGGML_NATIVE=OFF"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Host information
+        run: |
+          echo "=== CPU ==="
+          lscpu | head -40
+          echo "=== Memory ==="
+          free -h
+          echo "=== Disk ==="
+          df -h
+          echo "=== OS ==="
+          uname -a
+          cat /etc/os-release || true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # CPU-only llama-cpp-python wheel / build
+          pip install -r requirements.txt
+
+      - name: Generate synthetic dataset (1000 records)
+        run: |
+          python generate_test_data.py --count 1000 --out data/synthetic_tickets.jsonl
+          wc -l data/synthetic_tickets.jsonl
+
+      - name: Download and verify model
+        run: |
+          python -c "from model_runner import download_model; download_model()"
+          ls -lh models/
+
+      - name: Run benchmark
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '1000' }}"
+          echo "Processing limit=$LIMIT"
+          python benchmark.py --data data/synthetic_tickets.jsonl --limit "$LIMIT" --out-dir results
+
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: benchmark-results
+          path: |
+            results/benchmark_summary.json
+            results/benchmark_results.csv
+          if-no-files-found: warn
