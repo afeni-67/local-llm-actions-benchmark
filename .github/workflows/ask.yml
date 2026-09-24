@@ -1,0 +1,28 @@
+name: Ask one question
+on:
+  workflow_dispatch:
+    inputs:
+      question:
+        description: "Question for the local model"
+        required: true
+        default: "In one short sentence: what is the capital of France?"
+jobs:
+  ask:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      MODEL_REPO: Qwen/Qwen3-4B-GGUF
+      MODEL_FILE: Qwen3-4B-Q4_K_M.gguf
+      MODEL_DIR: models
+      LLM_THREADS: "3"
+      LLM_CTX: "1024"
+      CMAKE_ARGS: "-DGGML_NATIVE=OFF"
+      ASK_QUESTION: ${{ github.event.inputs.question }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Ask the local model
+        run: python ask_one.py
